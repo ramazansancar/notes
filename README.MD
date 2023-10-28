@@ -76,6 +76,10 @@ regexNickname: {
 - `site:ramazansancar.com.tr -inurl:"www" -inurl:"blog"` - Site içerisinde `www` ve `blog` kelimelerinin geçtiği bağlantıları aramaz!
 - `site:ramazansancar.com.tr -inurl:"www" -inurl:"blog" -inurl:"admin"` - Site içerisinde `www`, `blog` ve `admin` kelimelerinin geçtiği bağlantıları aramaz!
 
+## Link Kısaltma Servisleri
+
+- [l24.im](https://l24.im/)
+
 ### Kullanılabilir Bildirimler
 
 > [!NOTE]
