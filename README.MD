@@ -79,6 +79,20 @@ regexNickname: {
 ## Link Kısaltma Servisleri
 
 - [l24.im](https://l24.im/)
+- [4am.click](https://4am.click/)
+- [t.ly](https://t.ly/)
+  - [linkunshorten.com](https://linkunshorten.com/)
+
+## Az Bilinen Mini Oyunlar
+
+- [florr.io](https://florr.io/) powered by [m28 studio](https://m28.studio/)
+- [digdig.io](https://digdig.io/) powered by [m28 studio](https://m28.studio/)
+- [diep.io](http://diep.io/) powered by [m28 studio](https://m28.studio/)
+- [agar.io](https://agar.io/) powered by [m28 studio](https://m28.studio/)
+
+## Web Kontrol Panelleri
+
+- [Hestia Control Panel](https://hestiacp.com/)
 
 ### Kullanılabilir Bildirimler
 
