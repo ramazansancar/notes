@@ -97,6 +97,11 @@ regexNickname: {
 
 - [Hestia Control Panel](https://hestiacp.com/)
 
+## Veriler
+
+- [Kickstarter Veri Seti](https://webrobots.io/kickstarter-datasets/)
+- [Indiegogo Veri Seti](https://webrobots.io/indiegogo-dataset/)
+
 ### Kullanılabilir Bildirimler
 
 > [!NOTE]
