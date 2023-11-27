@@ -102,6 +102,15 @@ regexNickname: {
 - [Kickstarter Veri Seti](https://webrobots.io/kickstarter-datasets/)
 - [Indiegogo Veri Seti](https://webrobots.io/indiegogo-dataset/)
 
+## 3D Tasarım Şablonları
+
+- [Thingiverse](https://www.thingiverse.com/)
+- [Printables](https://www.printables.com/)
+- [Thangs](https://thangs.com/)
+- [Pinshape](https://pinshape.com/)
+- [Cults 3D](https://cults3d.com/)
+- [Yeggi](https://www.yeggi.com/)
+
 ### Kullanılabilir Bildirimler
 
 > [!NOTE]
