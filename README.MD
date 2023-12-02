@@ -110,6 +110,7 @@ regexNickname: {
 - [Pinshape](https://pinshape.com/)
 - [Cults 3D](https://cults3d.com/)
 - [Yeggi](https://www.yeggi.com/)
+- [Creality Cloud](https://www.crealitycloud.com/)
 
 # Windows Komutları
 
