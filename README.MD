@@ -120,6 +120,15 @@ regexNickname: {
 # İş İlanları
 
 - [Jobs.lu](https://en.jobs.lu/)
+- [ICTJob.lu](https://www.ictjob.lu/en/job-search/)
+- [Monster.lu](https://www.monster.lu/en/)
+- [Indeed.lu](https://lu.indeed.com/)
+- [Jobfinder.lu](https://www.jobfinder.lu/)
+- [Job Today](https://jobtoday.com/en/)
+- [Work in Luxembourg](https://work-in-luxembourg.lu/offers)
+- [Luxembourg Tech Jobs](https://www.luxembourgtechjobs.lu/)
+- [Luxembourg Jobs](https://www.luxembourg-jobs.com/)
+- [Moovijob](https://en.moovijob.com/job-offers/jobs-luxembourg)
 
 ### Kullanılabilir Bildirimler
 
