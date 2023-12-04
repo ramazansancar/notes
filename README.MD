@@ -129,6 +129,7 @@ regexNickname: {
 - [Luxembourg Tech Jobs](https://www.luxembourgtechjobs.lu/)
 - [Luxembourg Jobs](https://www.luxembourg-jobs.com/)
 - [Moovijob](https://en.moovijob.com/job-offers/jobs-luxembourg)
+- [Jobs in Luxembourg](https://www.jobsinluxembourg.eu/)
 
 ### Kullanılabilir Bildirimler
 
