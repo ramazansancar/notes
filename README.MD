@@ -102,6 +102,7 @@ regexNickname: {
 - [Kickstarter Veri Seti](https://webrobots.io/kickstarter-datasets/)
 - [Indiegogo Veri Seti](https://webrobots.io/indiegogo-dataset/)
 - [Data Hub](https://datahub.io/search)
+- [Hugging Face](https://huggingface.co/datasets)
 
 ## 3D Tasarım Şablonları
 
