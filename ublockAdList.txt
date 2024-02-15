@@ -9,7 +9,6 @@ alisverisforumu.com##.xgtSolSabitBanner
 ! 2023-07-21 https://balkangunlugu.com.tr
 balkangunlugu.com.tr##.AdInserterPro-4.AdInserterPro
 balkangunlugu.com.tr##.AdInserterPro
-
 https://www.migros.com.tr/rest/screen-views
 https://api-abtesting.flix360.io/
 https://h.n11.com/
@@ -66,7 +65,6 @@ inattvhdxyz.blogspot.com##div.separator > [href] > [src]
 ||i.hizliresim.com/*.gif$image
 ping.php?channel=
 https://www.yemeksepeti.com/lJuB4eTB/xhr/b/s
-
 https://substrate.office.com/search/api/v1/events?scenario=powerbar
 https://teams.microsoft.com/api/mt/part/emea-02/beta/me/engagementSurfaces/actions
 https://eur.loki.delve.office.com/api/v1/peopleInsights/peoplecard
@@ -92,14 +90,14 @@ golvar620.xyz##.pageskin
 golvar620.xyz##[href="https://bit.ly/golvar"]
 golvar620.xyz##.vdldl
 https://video.twimg.com/ext_tw_video/1697730993543610368/pu/pl/w_Vm3y0kgcx82xmz.m3u8
-
 https://discord.com/cdn-cgi/
 https://discord.com/api/v9/science
+https://discord.com/api/v10/science
+/science
 https://www.rmp-data.com/ls/increment.php
 ! 2023-10-28 https://hansa-online.de
 hansa-online.de##.spu-container
 hansa-online.de##.wppopups-whole
-
 https://api.adinplay.com/libs/aiptag/assets/adsbygoogle.js
 https://api.adinplay.com/libs/aiptag/pub/DGD/florr.io/tag.min.js
 https://api.adinplay.com/libs/aiptag/pub/DGD/
@@ -107,10 +105,8 @@ https://api.adinplay.com/libs/aiptag/pub/
 https://api.adinplay.com/libs/aiptag/
 https://api.adinplay.com/libs/
 https://api.adinplay.com/
-
 https://www.google.com/js/google.js
 https://ssl.google-analytics.com/ga.js
-
 https://www.penti.com/_ui/responsive/common/js/custom/acc.penti.googletagmanager.js
 ! 2023-11-07 https://www.filmsezonu.com
 www.filmsezonu.com##.copy > [href]
@@ -123,12 +119,7 @@ kommunity.com##.transiyzi-banner
 kommunity.com##.transiyzi-title
 kommunity.com##[alt="Transiyzi"]
 kommunity.com##[href="https://transiyzi.com/?utm_source=kommunity&utm_medium=banner&utm_campaign=welcome&utm_content=activity"]
-
 https://www.odamax.com/ajax/jsLogger
-
-https://discord.com/api/v9/science
-https://discord.com/api/v10/science
-/science
 https://sahibinden.satin-al.ru.com/ilan/fonksiyon.php?sayfa=mobil&ip=
 https://sahibinden.satin-al.ru.com/ilan/fonksiyon.php?sayfa=
 ! 2023-06-02 https://doodle.com
@@ -169,7 +160,6 @@ festivall.com.tr##.sence
 https://www.epicgames.com/id/api/analytics
 https://gaming.amazon.com/fiber
 https://analitik.uab.gov.tr/
-
 https://salesiq.zohopublic.com/visitor/v2/channels/website
 https://collector.blupoint.io/memberships/blutv/schemas/page-view/collect
 https://collector.blupoint.io/memberships/*
@@ -187,7 +177,6 @@ updates.moovit.com##.desktop.wrap_google_ad
 ! 2023-09-29 https://kuponla.com
 kuponla.com##.scrollOff.akuleRightBeanner
 kuponla.com##.scrollOff.akuleLeftBeanner
-
 https://www.incehesap.com/ajax/impressions.php
 https://www.incehesap.com/ajax/urun_log.php
 https://www.yemeksepeti.com/lJuB4eTB/xhr/b/s
@@ -205,7 +194,6 @@ https://gew2-spclient.spotify.com/gabo-receiver-service/public/v3/events
 https://gew3-spclient.spotify.com/gabo-receiver-service/public/v3/events
 ! 2023-11-07 https://www.freeconvert.com
 www.freeconvert.com##.ads-in-page
-
 https://collect.trendyol.com/e
 ! 2023-11-08 https://www.elirav.com
 ||elirav.com/dosyalar/**$image
@@ -262,10 +250,8 @@ cults3d.com##.zone__placeholder
 cults3d.com###zone-cat-top
 ! 2023-12-14 https://quackr.io
 quackr.io##.footer-overlay
-
 https://auzefsinav.istanbul.edu.tr/clm10
 https://cdn.jsdelivr.net/npm/devtools-detector
-
 https://cdn.e-devlet.gov.tr/themes/ankara/js/analitik.*
 ! 2024-01-30 https://dizipal654.com
 dizipal654.com##center
@@ -273,3 +259,9 @@ dizipal654.com##center
 l6-dizipal11-one.cdn.ampproject.org##center
 ! 2024-02-02 https://inatflix2.xyz
 inatflix2.xyz##center
+https://1.1.1.1/cdn-cgi/trace
+! 2024-02-15 https://justintv.lat
+justintv.lat###soldakayan
+justintv.lat###sagdakayan
+! 2024-02-15 https://www.canlitribun*.live/ Adblock Bypass
+@@/cdn/advert.js
