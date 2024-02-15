@@ -60,7 +60,7 @@ jyayintv39.live##.right_bannner
 jyayintv37.live##.right_bannner
 jyayintv37.live##.bannner
 ! 2023-10-05 https://inattvhdxyz.blogspot.com
-inattvhdxyz.blogspot.com##div.separator > [href] > [src]
+inattvhdxyz.blogspot.com##div.separator &gt; [href] &gt; [src]
 ||i.hizliresim.com/*l.gif$image
 ||i.hizliresim.com/*.gif$image
 ping.php?channel=
@@ -109,13 +109,11 @@ https://www.google.com/js/google.js
 https://ssl.google-analytics.com/ga.js
 https://www.penti.com/_ui/responsive/common/js/custom/acc.penti.googletagmanager.js
 ! 2023-11-07 https://www.filmsezonu.com
-www.filmsezonu.com##.copy > [href]
+www.filmsezonu.com##.copy &gt; [href]
 execution-ci360.flypgs.com
 ! 2023-05-23 https://kommunity.com
-kommunity.com##.transiyzi-feed-card
 kommunity.com##[src="/img/transiyzi/transiyzi-avatar.png"]
 ||kommunity.com/img/transiyzi/transiyzi-*.png$image
-kommunity.com##.transiyzi-banner
 kommunity.com##.transiyzi-title
 kommunity.com##[alt="Transiyzi"]
 kommunity.com##[href="https://transiyzi.com/?utm_source=kommunity&utm_medium=banner&utm_campaign=welcome&utm_content=activity"]
@@ -139,7 +137,6 @@ https://zxro.com/u/fb.php
 https://api.dmns.app/log
 https://api.openreplay.com/ingest/v1/web/i
 https://api.openreplay.com/ingest/v1/web/start
-https://www.obilet.com/event
 https://www.turkishairlines.com/PUIAz/
 ! 2023-07-05 https://www.hangikredi.com
 ||cdn.hangikredi.com/images/content/nativecard/*.svg$image
@@ -179,7 +176,6 @@ kuponla.com##.scrollOff.akuleRightBeanner
 kuponla.com##.scrollOff.akuleLeftBeanner
 https://www.incehesap.com/ajax/impressions.php
 https://www.incehesap.com/ajax/urun_log.php
-https://www.yemeksepeti.com/lJuB4eTB/xhr/b/s
 # dizipal engelleyici
 https://fastly.jsdelivr.net/npm/disable-devtool@latest/disable-devtool.min.js
 disable-devtool.min.js
@@ -208,8 +204,8 @@ https://wauhs.com/botex/accept.php
 https://whos.amung.us/p2/ping/
 https://public-sdc.trendyol.com/discovery-web-socialgw-service/api/review-like/filter
 ! 2023-11-12 https://taraftariumyayin37.pages.dev
-taraftariumyayin37.pages.dev##body > div > [href] > [src]
-taraftariumyayin37.pages.dev##body > div > a
+taraftariumyayin37.pages.dev##body &gt; div &gt; [href] &gt; [src]
+taraftariumyayin37.pages.dev##body &gt; div &gt; a
 taraftariumyayin37.pages.dev###dqqqqq
 https://bit.ly/m/GUVENILIRBAHISSITELERI
 /sitem.js
@@ -238,7 +234,6 @@ https://tags.tiqcdn.com/utag/
 ! 2023-11-15 https://www.ovadiobrando.com
 /smartbahispage.png$image
 ##.justintvizle
-/smartbahispage.png$image
 ###yoket
 ! 2023-11-15 https://taraftariumyayin37.pages.dev
 taraftariumyayin37.pages.dev##.topDuyuru
@@ -259,9 +254,29 @@ dizipal654.com##center
 l6-dizipal11-one.cdn.ampproject.org##center
 ! 2024-02-02 https://inatflix2.xyz
 inatflix2.xyz##center
+! 2024-02-15 https://www.papazsports177.pro/
 https://1.1.1.1/cdn-cgi/trace
+https://1.1.1.1/cdn-cgi/trace*
+https://lpgs.chatbro.com/g
 ! 2024-02-15 https://justintv.lat
 justintv.lat###soldakayan
 justintv.lat###sagdakayan
-! 2024-02-15 https://www.canlitribun*.live/ Adblock Bypass
+! 2024-02-15 https://www.canlitribun130.live/ & https://www.hdselcuksports61.top/ Adblock Bypass (https://sporyayinlari.com/domain_list.json)
 @@/cdn/advert.js
+! 2024-02-15 https://www.papazsports177.pro/ Adblock Bypass (https://sporyayinlari.com/domain_list.json)
+@@/lib/js/advert.js
+/csl/*
+! 2024-02-15 https://www.papazsports177.pro
+www.papazsports177.pro###video_reklam
+! 2024-02-15 https://www.kuponuna171.top
+||www.kuponuna*.gif$image
+www.kuponuna171.top###reklamCode
+https://www.kuponuna*/r/*
+##.chat_over_reklam
+! 2024-02-15 https://www.hdselcuksports61.top
+||www.hdselcuksports61.top/cdn/r/images/*.gif$image
+||www.hdselcuksports*.gif$image
+||www.hdselcuksports61.top/cdn/*$subdocument
+||www.hdselcuksports61.top/cdn/images/*.jpg$image
+##div.over-h.header_1000
+https://www.hdselcuksports*.mp4
