@@ -1,0 +1,275 @@
+twitch.tv##+js(twitch-videoad)
+! 2023-07-17 https://kommunity.com
+||kommunity.com/img/transiyzi/transiyzi-feed.png$image
+kommunity.com##.transiyzi-feed-card
+kommunity.com##.transiyzi-banner
+! 2023-07-20 https://alisverisforumu.com
+alisverisforumu.com##table
+alisverisforumu.com##.xgtSolSabitBanner
+! 2023-07-21 https://balkangunlugu.com.tr
+balkangunlugu.com.tr##.AdInserterPro-4.AdInserterPro
+balkangunlugu.com.tr##.AdInserterPro
+
+https://www.migros.com.tr/rest/screen-views
+https://api-abtesting.flix360.io/
+https://h.n11.com/
+http://h.n11.com/__ha.gif
+http://h.n11.com/__haMobile
+https://www.obilet.com/event
+https://www.isbank.com.tr/TSPD/?type=22
+https://obilethelp.zendesk.com/frontendevents/
+https://obilethelp.zendesk.com/frontendevents/dl
+https://www.webtekno.com/ajax/ometric
+https://countly.kommunity.com/
+https://radar.cloudflare.com/api/analytics
+https://www.vatanbilgisayar.com/Landing/GetBuybackCampaignByProductId/
+https://www.vatanbilgisayar.com/Partial/VisilabsUserInfo/
+! 2023-08-26 https://www.vedbex.com
+www.vedbex.com##div.card-body.card.gutter-xs.row:nth-of-type(3)
+www.vedbex.com##div.card-body.card.gutter-xs.row:nth-of-type(5)
+https://img.bolumsonucanavari.com/js/arkaplanreklam4.js
+https://excess.duolingo.com/batch
+https://r.stripe.com/0
+https://sentry.io/api/127023/envelope/
+https://cdn.appdynamics.com/
+https://app.mailgun.com/logs/error
+https://internetsube.qnbfi.com/web-services/qnb-proxy/CUSTOMERCheckActiveSession
+https://internetsube.qnbfi.com/web-services/qnb-proxy/CUSTOMERProcessLogOutTime
+! 2023-09-14 https://www.ogrenciislerim.com
+www.ogrenciislerim.com###block-burslistesimobilreklamdesktop2reklam
+www.ogrenciislerim.com##[href="https://www.ogrenciislerim.com/haberler/ogrenciye_ek_gelir"]
+||www.ogrenciislerim.com/sites/default/files/inline-images/anket-doldurarak-para-kazanmak_1_0.jpg$image
+https://tieredaccess.com/__webpack_hmr
+https://tieredaccess.com/config
+gateway.instagram.com/ws/realtime
+api.appcues.net/**
+api.appcues.net
+api.appcues.net/v1/socket/websocket
+fast.appcues.com
+**/iojs/
+https://ci-first.iovation.com
+**/iovation_loader.js
+https://auth.uber.com/v2/_events
+https://www.reddit.com/counters/client-screenview
+https://www.reddit.com/errors
+https://www.teknobilgim.net/
+! 2023-10-05 https://jyayintv39.live
+||i.hizliresim.com/lw49a51.gif$image
+jyayintv39.live##.bannner
+jyayintv39.live##.right_bannner
+! 2023-10-05 https://jyayintv37.live
+jyayintv37.live##.right_bannner
+jyayintv37.live##.bannner
+! 2023-10-05 https://inattvhdxyz.blogspot.com
+inattvhdxyz.blogspot.com##div.separator > [href] > [src]
+||i.hizliresim.com/*l.gif$image
+||i.hizliresim.com/*.gif$image
+ping.php?channel=
+https://www.yemeksepeti.com/lJuB4eTB/xhr/b/s
+
+https://substrate.office.com/search/api/v1/events?scenario=powerbar
+https://teams.microsoft.com/api/mt/part/emea-02/beta/me/engagementSurfaces/actions
+https://eur.loki.delve.office.com/api/v1/peopleInsights/peoplecard
+https://eur.loki.delve.office.com/api/v1/organization/manager
+https://eur.loki.delve.office.com/api/v1/organization
+https://eu-teams.events.data.microsoft.com/OneCollector/1.0
+track.php?v=
+! 2023-10-21 https://www.donailfoulardautore.com
+www.donailfoulardautore.com##.justintvizle
+||donailfoulardautore.com/dosyalar/smart*$image
+www.donailfoulardautore.com##.splash-at.splash
+! 2023-10-21 https://www.rsarticles.com
+www.rsarticles.com##.justintvizle
+||www.rsarticles.com/izin/ultrabetpage.png$image
+www.rsarticles.com##.splash-at.splash
+||www.rsarticles.com/izin/*.png$image
+www.rsarticles.com###playerAdv2
+! 2023-10-21 https://jyayintv46.live
+jyayintv46.live##.justintvizle
+! 2023-10-22 https://golvar619.xyz
+golvar620.xyz##.pageskin
+||golvar620.xyz/wp-content/uploads/2023/09/*$image
+golvar620.xyz##[href="https://bit.ly/golvar"]
+golvar620.xyz##.vdldl
+https://video.twimg.com/ext_tw_video/1697730993543610368/pu/pl/w_Vm3y0kgcx82xmz.m3u8
+
+https://discord.com/cdn-cgi/
+https://discord.com/api/v9/science
+https://www.rmp-data.com/ls/increment.php
+! 2023-10-28 https://hansa-online.de
+hansa-online.de##.spu-container
+hansa-online.de##.wppopups-whole
+
+https://api.adinplay.com/libs/aiptag/assets/adsbygoogle.js
+https://api.adinplay.com/libs/aiptag/pub/DGD/florr.io/tag.min.js
+https://api.adinplay.com/libs/aiptag/pub/DGD/
+https://api.adinplay.com/libs/aiptag/pub/
+https://api.adinplay.com/libs/aiptag/
+https://api.adinplay.com/libs/
+https://api.adinplay.com/
+
+https://www.google.com/js/google.js
+https://ssl.google-analytics.com/ga.js
+
+https://www.penti.com/_ui/responsive/common/js/custom/acc.penti.googletagmanager.js
+! 2023-11-07 https://www.filmsezonu.com
+www.filmsezonu.com##.copy > [href]
+execution-ci360.flypgs.com
+! 2023-05-23 https://kommunity.com
+kommunity.com##.transiyzi-feed-card
+kommunity.com##[src="/img/transiyzi/transiyzi-avatar.png"]
+||kommunity.com/img/transiyzi/transiyzi-*.png$image
+kommunity.com##.transiyzi-banner
+kommunity.com##.transiyzi-title
+kommunity.com##[alt="Transiyzi"]
+kommunity.com##[href="https://transiyzi.com/?utm_source=kommunity&utm_medium=banner&utm_campaign=welcome&utm_content=activity"]
+
+https://www.odamax.com/ajax/jsLogger
+
+https://discord.com/api/v9/science
+https://discord.com/api/v10/science
+/science
+https://sahibinden.satin-al.ru.com/ilan/fonksiyon.php?sayfa=mobil&ip=
+https://sahibinden.satin-al.ru.com/ilan/fonksiyon.php?sayfa=
+! 2023-06-02 https://doodle.com
+doodle.com##.SubLayout__top-container
+https://api.data.ciceksepeti.com/
+https://api.data.ciceksepeti.com/v1/p
+https://api.data.ciceksepeti.com/v1/t
+https://www.ciceksepeti.com/partytown-proxy?url=
+https://www.ciceksepeti.com/partytown-proxy?url=https%3A%2F%2Fwww.google-analytics.com%2Fanalytics.js
+https://www.ciceksepeti.com/Themes/Ciceksepeti/Assets/lib/partytown/lib/proxytown
+https://suggestion.ciceksepeti.com/api/v1/
+api.segment.io/v1
+https://www.reddit.com/svc/
+_vercel/insights/view
+#https://europe-west3-test-biletdukkani-b2b.cloudfunctions.net/admin-getClientIp
+https://zxro.com/u/fb.php
+https://api.dmns.app/log
+https://api.openreplay.com/ingest/v1/web/i
+https://api.openreplay.com/ingest/v1/web/start
+https://www.obilet.com/event
+https://www.turkishairlines.com/PUIAz/
+! 2023-07-05 https://www.hangikredi.com
+||cdn.hangikredi.com/images/content/nativecard/*.svg$image
+www.hangikredi.com##.native-card__box
+https://www.googletagmanager.com/gtm.js?id=*
+https://api.evt.bsky.app/v1/t
+/Analytic.js
+https://www.eldoradogold.com/x0k461
+https://www.eldoradogold.com/js/doctracking.js
+https://h.n11.com
+https://www.n11.com/izle
+https://www.n11.com/live-chat
+! 2023-08-14 https://mir.az
+mir.az##.inpage-wrap
+https://cdnjs.cloudflare.com/ajax/libs/fuckadblock/
+! 2023-08-23 https://festivall.com.tr
+festivall.com.tr##.sence
+https://www.epicgames.com/id/api/analytics
+https://gaming.amazon.com/fiber
+https://analitik.uab.gov.tr/
+
+https://salesiq.zohopublic.com/visitor/v2/channels/website
+https://collector.blupoint.io/memberships/blutv/schemas/page-view/collect
+https://collector.blupoint.io/memberships/*
+https://collector.blupoint.io/*
+https://tracker.blutv.com/track-v1.js
+https://tracker.blutv.com/
+http://collector.blupoint.io/memberships/blutv/schemas
+https://data.t.retrium.com/data/ptm.gif
+https://shiftdelete.net/hit.php?post_id=
+! 2023-09-25 https://www.haberler.com
+www.haberler.com##.detaySagSilme.item.sidebox
+https://www.enindirimlibilet.com/cdn-cgi/rum?
+! 2023-09-29 https://updates.moovit.com
+updates.moovit.com##.desktop.wrap_google_ad
+! 2023-09-29 https://kuponla.com
+kuponla.com##.scrollOff.akuleRightBeanner
+kuponla.com##.scrollOff.akuleLeftBeanner
+
+https://www.incehesap.com/ajax/impressions.php
+https://www.incehesap.com/ajax/urun_log.php
+https://www.yemeksepeti.com/lJuB4eTB/xhr/b/s
+# dizipal engelleyici
+https://fastly.jsdelivr.net/npm/disable-devtool@latest/disable-devtool.min.js
+disable-devtool.min.js
+! 2023-10-31 https://www.obilet.com
+www.obilet.com##.js-list-cross-sell-banner-container
+https://www.spotify.com/api/gabo-receiver-service/
+https://www.spotify.com/api/gabo-receiver-service/public/v3/events
+https://www.spotify.com/api/gabo-receiver-service/v3/events
+https://gew4-spclient.spotify.com/gabo-receiver-service/public/v3/events
+https://gew1-spclient.spotify.com/gabo-receiver-service/public/v3/events
+https://gew2-spclient.spotify.com/gabo-receiver-service/public/v3/events
+https://gew3-spclient.spotify.com/gabo-receiver-service/public/v3/events
+! 2023-11-07 https://www.freeconvert.com
+www.freeconvert.com##.ads-in-page
+
+https://collect.trendyol.com/e
+! 2023-11-08 https://www.elirav.com
+||elirav.com/dosyalar/**$image
+www.elirav.com###amansiz
+! 2023-11-08 https://www.solobuscame.com
+www.solobuscame.com##.justintvizle
+www.solobuscame.com###amans
+www.solobuscame.com##[href="https://rebrand.ly/betkolikJTV"]
+www.solobuscame.com##[href="https://rebrand.ly/ultraJTV"]
+www.solobuscame.com##.site-info
+https://wauhs.com/botex/accept.php
+https://whos.amung.us/p2/ping/
+https://public-sdc.trendyol.com/discovery-web-socialgw-service/api/review-like/filter
+! 2023-11-12 https://taraftariumyayin37.pages.dev
+taraftariumyayin37.pages.dev##body > div > [href] > [src]
+taraftariumyayin37.pages.dev##body > div > a
+taraftariumyayin37.pages.dev###dqqqqq
+https://bit.ly/m/GUVENILIRBAHISSITELERI
+/sitem.js
+https://cdn.discordapp.com/attachments/1081331529923444776/1147268044083703868/Untitled.mp4
+! 2023-11-12 https://iframeyayin.com
+iframeyayin.com##div.item
+iframeyayin.com##div.item1
+https://bumerang.hurriyet.com.tr/show_ads.js
+! 2023-11-14 https://web.flypgs.com/manage-booking
+https://external-dev.cartrawler.com/cartrawlerota/json
+https://api.personaclick.com/
+https://api.personaclick.com/segments/get
+https://dpm.demdex.net/
+https://dpm.demdex.net/id
+https://tags.tiqcdn.com/utag/vodafone/tr-main/prod/utag.js
+https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
+https://www.notion.so/api/v3/teV1
+https://ef-events.notion.site/api/v3/ping
+https://ef-events.notion.site/f/refresh
+https://www.aa.com.tr/clm10
+https://tags.tiqcdn.com/utag/vodafone/tr-main/prod/utag.sync.js
+https://tags.tiqcdn.com/utag/
+! 2023-11-15 https://golvar635.xyz
+##[href="https://bit.ly/m/golvar"]
+##a[href="https://golvarmobil2.com"]
+! 2023-11-15 https://www.ovadiobrando.com
+/smartbahispage.png$image
+##.justintvizle
+/smartbahispage.png$image
+###yoket
+! 2023-11-15 https://taraftariumyayin37.pages.dev
+taraftariumyayin37.pages.dev##.topDuyuru
+! 2023-11-15 https://www.adolstore.com
+/setrabetpage.png$image
+https://www.netflix.com/personalization/cl2
+! 2023-11-27 https://cults3d.com
+cults3d.com##.zone__placeholder
+cults3d.com###zone-cat-top
+! 2023-12-14 https://quackr.io
+quackr.io##.footer-overlay
+
+https://auzefsinav.istanbul.edu.tr/clm10
+https://cdn.jsdelivr.net/npm/devtools-detector
+
+https://cdn.e-devlet.gov.tr/themes/ankara/js/analitik.*
+! 2024-01-30 https://dizipal654.com
+dizipal654.com##center
+! 2024-01-30 https://l6-dizipal11-one.cdn.ampproject.org
+l6-dizipal11-one.cdn.ampproject.org##center
+! 2024-02-02 https://inatflix2.xyz
+inatflix2.xyz##center
