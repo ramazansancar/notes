@@ -1,3 +1,17 @@
+![RS - UBlock Turkish filter]
+! Checksum: 
+! Diff-Path: 
+! Title: RS - UBlock Turkish filter
+! Description: My personal filter for Turkish websites. It blocks ads, pop-ups, banners, and other annoying elements.
+! Version: 2.0.0.1
+! TimeUpdated: 2024-02-15T23:31:30+03:00
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/ramazansancar/notes
+! License: https://github.com/ramazansancar/notes/blob/main/LICENSE
+!
+!---------------------------------------------------------------------------!
+!---------------------------------------------------------------------------!
+
 twitch.tv##+js(twitch-videoad)
 ! 2023-07-17 https://kommunity.com
 ||kommunity.com/img/transiyzi/transiyzi-feed.png$image
