@@ -294,3 +294,96 @@ https://www.kuponuna*/r/*
 ||www.hdselcuksports61.top/cdn/images/*.jpg$image
 ##div.over-h.header_1000
 https://www.hdselcuksports*.mp4
+||i.hizliresim.com/20hmavy.png$image
+##[href="https://bit.ly/golvar"]
+##.vdldl
+/analytics.js
+https://t.me/v/
+https://boycottoptions.com/services/getViews.php
+https://boycottoptions.com/services/updateViews.php
+https://www.linkedin.com/realtime/realtimeFrontendClientConnectivityTracking?action=sendHeartbeat
+https://www.linkedin.com/kOshZzQJR-2UaAQUW39
+!######### Tested only with uBlock Origin
+!######## Remove Groups and Suppress some or all like/comments/posts from chatty contacts ################
+## Block everything from John Doe, likes from Jane Doe
+linkedin.com#?#div:-abp-has(&gt; .feed-shared-header:-abp-contains(/John Doe|Jane Doe likes this/i))
+!######## For connections that repost too much content ###########
+linkedin.com#?#div:-abp-has(&gt; .feed-shared-actor:-abp-contains(/John Adams|George Washington/i))
+!########### Groups you don't want to see. Sometimes a group will appear in more than one feed. #############
+linkedin.com#?#div:-abp-has(&gt; .feed-shared-header:-abp-contains(/Popular course|So and So Honor Society|University of Junk|Business Group of Junk/i))
+linkedin.com#?#div:-abp-has(&gt; .feed-shared-update-v2:-abp-contains(/Business Group of Junk/i))
+linkedin.com#?#div:-abp-has(&gt; .feed-shared-actor:-abp-contains(/University of Junk|Other Junk/i))
+!########### annoying side blocks and ads ############
+# linkedin.com#?#.pb3.pt2.learning-top-courses
+# linkedin.com#?#.feed-follows-module
+# linkedin.com#?#.feed-shared-promo
+# linkedin.com#?#.global-footer-compact
+# linkedin.com#?#div:-abp-has(&gt; .msg-overlay-bubble-header)
+!########### Politics #############
+linkedin.com#?#div:-abp-has(&gt; .feed-shared-update-v2:-abp-contains(/Trump|Biden/i))
+https://turkcell.api.useinsider.com/ins.js
+https://hit.api.useinsider.com/hit
+https://locationv2.api.useinsider.com/
+https://segment.api.useinsider.com/v4/segments/
+https://pnsdkapi.turktelekom.com.tr/sdk/3.0/session/init
+https://pnsdkapi.turktelekom.com.tr/sdk/3.0/event/fire
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk/crea/
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk/ad/
+analytics.js
+! 2023-12-03 http://www.metalsmarket.net
+||www.metalsmarket.net/banner/**$image
+! 2023-12-05 https://zuzuvuitton2.com
+||zuzuvuitton2.com/*if$image
+zuzuvuitton2.com##.sol
+zuzuvuitton2.com##.sag
+||zuzuvuitton2.com/*.gif$image
+! 2023-12-05 https://zuzuvuitton.com
+||zuzuvuitton.com/*.gif$image
+https://www.spotify.com/api/growth-events/wwwanalytics
+! 2023-12-09 https://casinocafe1.com
+||casinocafe1.com/*.gif$image
+||/analytics.js
+! 2023-12-10 https://jetfilmizle.cx
+||jetcdn.top/*.gif$image
+https://api.365livesport.life/api/geo/get
+! 2023-12-12 https://izle-rsarticles-com.cdn.ampproject.org
+||*.ampproject.org/*.gif$image
+izle-rsarticles-com.cdn.ampproject.org##.headerreklam.amp-bannerlar
+izle-rsarticles-com.cdn.ampproject.org##[href="https://rebrand.ly/smartbahisJTV"]
+! 2023-12-12 https://www.justintvizle72.live
+||www.justintvizle*.live/izinler/*.png$image
+www.justintvizle72.live###playerAdv2
+! 2023-12-12 https://dplayer62.site
+dplayer62.site###videoText
+||https://cdn.ticimax.cloud/Version/**/analytics.js
+! 2023-12-16 https://www.twitch.tv
+www.twitch.tv##.holiday-gradient
+! 2023-12-17 https://www.andromedaplus.com
+www.andromedaplus.com##.splash-at.splash
+! 2023-12-17 https://mgviagrtoomuch.com
+||cdsnnt.pages.dev/*.gif$image
+mgviagrtoomuch.com###dqqqqq
+mgviagrtoomuch.com##[href="https://cutt.ly/EwAlzYoG"]
+! ||betx21biz.pages.dev/betturkey.mp4$media
+https://api.steampowered.com/IClientMetricsService/ReportClientError/v1
+! 2023-12-24 https://www.isistasyonu.com
+www.isistasyonu.com##.theme-banner
+https://turk.net/service/AddressServ.svc/SaveInfrastructureInquiryMarketingData
+https://b-cdn.milliyet.com.tr/banalytics.js
+! 2024-01-20 https://www.corum.bel.tr
+www.corum.bel.tr##.cerez-section
+! 2024-01-28 https://guneykoresinemasi.com
+guneykoresinemasi.com##.footer &gt; .text-center
+guneykoresinemasi.com##.mt-3.footer-description &gt; [href]
+https://sonsurumapk.xyz/root/korea.php
+! 2024-02-03 https://www.garaveli.de
+www.garaveli.de##.adblockalert
+https://www.linkedin.com/BooHQJjQa-S0lIsBk77
+https://www.linkedin.com/lPbjxV1C_AiRbR1Bs
+https://www.linkedin.com/FOgRZ5o17cH1N
+https://careers-analytics.recruitee.com/api/event
+https://www.sahibinden.com/ajax/cs/afp?hx=10
+https://api.bazaarvoice.com
+https://per2.segmentify.com/
+! 2024-02-19 - https://www.risein.com/ Analytics
+https://proxy-vlaqk7l2ta-uc.a.run.app
