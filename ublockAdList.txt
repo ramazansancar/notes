@@ -74,7 +74,7 @@ jyayintv39.live##.right_bannner
 jyayintv37.live##.right_bannner
 jyayintv37.live##.bannner
 ! 2023-10-05 https://inattvhdxyz.blogspot.com
-inattvhdxyz.blogspot.com##div.separator &gt; [href] &gt; [src]
+inattvhdxyz.blogspot.com##div.separator > [href] > [src]
 ||i.hizliresim.com/*l.gif$image
 ||i.hizliresim.com/*.gif$image
 ping.php?channel=
@@ -123,7 +123,7 @@ https://www.google.com/js/google.js
 https://ssl.google-analytics.com/ga.js
 https://www.penti.com/_ui/responsive/common/js/custom/acc.penti.googletagmanager.js
 ! 2023-11-07 https://www.filmsezonu.com
-www.filmsezonu.com##.copy &gt; [href]
+www.filmsezonu.com##.copy > [href]
 execution-ci360.flypgs.com
 ! 2023-05-23 https://kommunity.com
 kommunity.com##[src="/img/transiyzi/transiyzi-avatar.png"]
@@ -218,8 +218,8 @@ https://wauhs.com/botex/accept.php
 https://whos.amung.us/p2/ping/
 https://public-sdc.trendyol.com/discovery-web-socialgw-service/api/review-like/filter
 ! 2023-11-12 https://taraftariumyayin37.pages.dev
-taraftariumyayin37.pages.dev##body &gt; div &gt; [href] &gt; [src]
-taraftariumyayin37.pages.dev##body &gt; div &gt; a
+taraftariumyayin37.pages.dev##body > div > [href] > [src]
+taraftariumyayin37.pages.dev##body > div > a
 taraftariumyayin37.pages.dev###dqqqqq
 https://bit.ly/m/GUVENILIRBAHISSITELERI
 /sitem.js
@@ -306,21 +306,21 @@ https://www.linkedin.com/kOshZzQJR-2UaAQUW39
 !######### Tested only with uBlock Origin
 !######## Remove Groups and Suppress some or all like/comments/posts from chatty contacts ################
 ## Block everything from John Doe, likes from Jane Doe
-linkedin.com#?#div:-abp-has(&gt; .feed-shared-header:-abp-contains(/John Doe|Jane Doe likes this/i))
+linkedin.com#?#div:-abp-has(> .feed-shared-header:-abp-contains(/John Doe|Jane Doe likes this/i))
 !######## For connections that repost too much content ###########
-linkedin.com#?#div:-abp-has(&gt; .feed-shared-actor:-abp-contains(/John Adams|George Washington/i))
+linkedin.com#?#div:-abp-has(> .feed-shared-actor:-abp-contains(/John Adams|George Washington/i))
 !########### Groups you don't want to see. Sometimes a group will appear in more than one feed. #############
-linkedin.com#?#div:-abp-has(&gt; .feed-shared-header:-abp-contains(/Popular course|So and So Honor Society|University of Junk|Business Group of Junk/i))
-linkedin.com#?#div:-abp-has(&gt; .feed-shared-update-v2:-abp-contains(/Business Group of Junk/i))
-linkedin.com#?#div:-abp-has(&gt; .feed-shared-actor:-abp-contains(/University of Junk|Other Junk/i))
+linkedin.com#?#div:-abp-has(> .feed-shared-header:-abp-contains(/Popular course|So and So Honor Society|University of Junk|Business Group of Junk/i))
+linkedin.com#?#div:-abp-has(> .feed-shared-update-v2:-abp-contains(/Business Group of Junk/i))
+linkedin.com#?#div:-abp-has(> .feed-shared-actor:-abp-contains(/University of Junk|Other Junk/i))
 !########### annoying side blocks and ads ############
 # linkedin.com#?#.pb3.pt2.learning-top-courses
 # linkedin.com#?#.feed-follows-module
 # linkedin.com#?#.feed-shared-promo
 # linkedin.com#?#.global-footer-compact
-# linkedin.com#?#div:-abp-has(&gt; .msg-overlay-bubble-header)
+# linkedin.com#?#div:-abp-has(> .msg-overlay-bubble-header)
 !########### Politics #############
-linkedin.com#?#div:-abp-has(&gt; .feed-shared-update-v2:-abp-contains(/Trump|Biden/i))
+linkedin.com#?#div:-abp-has(> .feed-shared-update-v2:-abp-contains(/Trump|Biden/i))
 https://turkcell.api.useinsider.com/ins.js
 https://hit.api.useinsider.com/hit
 https://locationv2.api.useinsider.com/
@@ -373,8 +373,8 @@ https://b-cdn.milliyet.com.tr/banalytics.js
 ! 2024-01-20 https://www.corum.bel.tr
 www.corum.bel.tr##.cerez-section
 ! 2024-01-28 https://guneykoresinemasi.com
-guneykoresinemasi.com##.footer &gt; .text-center
-guneykoresinemasi.com##.mt-3.footer-description &gt; [href]
+guneykoresinemasi.com##.footer > .text-center
+guneykoresinemasi.com##.mt-3.footer-description > [href]
 https://sonsurumapk.xyz/root/korea.php
 ! 2024-02-03 https://www.garaveli.de
 www.garaveli.de##.adblockalert
