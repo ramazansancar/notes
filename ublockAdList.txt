@@ -266,8 +266,9 @@ https://cdn.e-devlet.gov.tr/themes/ankara/js/analitik.*
 dizipal654.com##center
 ! 2024-01-30 https://l6-dizipal11-one.cdn.ampproject.org
 l6-dizipal11-one.cdn.ampproject.org##center
-! 2024-02-02 https://inatflix2.xyz
-inatflix2.xyz##center
+! 2024-02-02 https://inatflix2.xyz && 2024-02-20 https://inatflix4.xyz
+##center
+###aa-wp > div > a
 ! 2024-02-15 https://www.papazsports177.pro/
 https://1.1.1.1/cdn-cgi/trace
 https://1.1.1.1/cdn-cgi/trace*
@@ -275,16 +276,18 @@ https://lpgs.chatbro.com/g
 ! 2024-02-15 https://justintv.lat
 justintv.lat###soldakayan
 justintv.lat###sagdakayan
+###soldakayan
+###sagdakayan
 ! 2024-02-15 https://www.canlitribun130.live/ & https://www.hdselcuksports61.top/ Adblock Bypass (https://sporyayinlari.com/domain_list.json)
 @@/cdn/advert.js
 ! 2024-02-15 https://www.papazsports177.pro/ Adblock Bypass (https://sporyayinlari.com/domain_list.json)
 @@/lib/js/advert.js
 /csl/*
 ! 2024-02-15 https://www.papazsports177.pro
-www.papazsports177.pro###video_reklam
+###video_reklam
 ! 2024-02-15 https://www.kuponuna171.top
 ||www.kuponuna*.gif$image
-www.kuponuna171.top###reklamCode
+###reklamCode
 https://www.kuponuna*/r/*
 ##.chat_over_reklam
 ! 2024-02-15 https://www.hdselcuksports61.top
@@ -387,3 +390,5 @@ https://api.bazaarvoice.com
 https://per2.segmentify.com/
 ! 2024-02-19 - https://www.risein.com/ Analytics
 https://proxy-vlaqk7l2ta-uc.a.run.app
+! 2024-02-20 - https://codenames.game/ Analytics
+https://codenames.game/api/event
