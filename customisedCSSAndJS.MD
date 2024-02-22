@@ -3,11 +3,11 @@
 
 ## User JavaScript and CSS Extension
 
-- [User JavaScript and CSS - Chrome Web Store](https://chromewebstore.google.com/detail/nbhcbdghjpllgmfilhnhkllmkecfmpld) [Source Code](https://github.com/twjmy/user-javascript-and-css)
+- [User JavaScript and CSS - Chrome Web Store](https://chromewebstore.google.com/detail/nbhcbdghjpllgmfilhnhkllmkecfmpld)
 
 ## List of User JavaScript and CSS
 
-- https://quackr.io/
+- <https://quackr.io/>
 
 CSS:
 
