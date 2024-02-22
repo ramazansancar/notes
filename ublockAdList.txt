@@ -407,3 +407,4 @@ https://codenames.game/api/event
 */sayacinat
 */sayac.html
 https://data.fctablesmedia.com/cache/tables.json
+||*cdn-dfj.pages.dev/*.jpg$image
