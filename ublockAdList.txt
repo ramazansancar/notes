@@ -3,8 +3,8 @@
 ! Diff-Path: 
 ! Title: RS - UBlock Turkish filter
 ! Description: My personal filter for Turkish websites. It blocks ads, pop-ups, banners, and other annoying elements.
-! Version: 2.0.0.6
-! TimeUpdated: 2024-02-22T22:56:00+03:00
+! Version: 2.0.0.7
+! TimeUpdated: 2024-02-22T23:57:00+03:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/ramazansancar/notes
 ! License: https://github.com/ramazansancar/notes/blob/main/LICENSE
@@ -217,10 +217,15 @@ www.solobuscame.com##.site-info
 https://wauhs.com/botex/accept.php
 https://whos.amung.us/p2/ping/
 https://public-sdc.trendyol.com/discovery-web-socialgw-service/api/review-like/filter
-! 2023-11-12 https://taraftariumyayin37.pages.dev
+! 2023-11-12 | 2023-11-15 https://taraftariumyayin37.pages.dev
 taraftariumyayin37.pages.dev##body > div > [href] > [src]
 taraftariumyayin37.pages.dev##body > div > a
 taraftariumyayin37.pages.dev###dqqqqq
+taraftariumyayin37.pages.dev##.topDuyuru
+/^taraftariumyayin\d+\.pages.dev$/##body > div > [href] > [src]
+/^taraftariumyayin\d+\.pages.dev$/##body > div > a
+/^taraftariumyayin\d+\.pages.dev$/###dqqqqq
+/^taraftariumyayin\d+\.pages.dev$/##.topDuyuru
 https://bit.ly/m/GUVENILIRBAHISSITELERI
 /sitem.js
 https://cdn.discordapp.com/attachments/1081331529923444776/1147268044083703868/Untitled.mp4
@@ -249,8 +254,6 @@ https://tags.tiqcdn.com/utag/
 /smartbahispage.png$image
 ##.justintvizle
 ###yoket
-! 2023-11-15 https://taraftariumyayin37.pages.dev
-taraftariumyayin37.pages.dev##.topDuyuru
 ! 2023-11-15 https://www.adolstore.com
 /setrabetpage.png$image
 https://www.netflix.com/personalization/cl2
@@ -351,6 +354,8 @@ https://www.spotify.com/api/growth-events/wwwanalytics
 https://api.365livesport.life/api/geo/get
 ! 2023-12-12 https://izle-rsarticles-com.cdn.ampproject.org
 ||*.ampproject.org/*.gif$image
+! 2023-12-17 https://mgviagrtoomuch.com
+||*.pages.dev/*.gif$image
 izle-rsarticles-com.cdn.ampproject.org##.headerreklam.amp-bannerlar
 izle-rsarticles-com.cdn.ampproject.org##[href="https://rebrand.ly/smartbahisJTV"]
 ! 2023-12-12 https://www.justintvizle72.live
@@ -363,8 +368,6 @@ dplayer62.site###videoText
 www.twitch.tv##.holiday-gradient
 ! 2023-12-17 https://www.andromedaplus.com
 www.andromedaplus.com##.splash-at.splash
-! 2023-12-17 https://mgviagrtoomuch.com
-||cdsnnt.pages.dev/*.gif$image
 mgviagrtoomuch.com###dqqqqq
 mgviagrtoomuch.com##[href="https://cutt.ly/EwAlzYoG"]
 ! ||betx21biz.pages.dev/betturkey.mp4$media
@@ -392,14 +395,15 @@ https://per2.segmentify.com/
 https://proxy-vlaqk7l2ta-uc.a.run.app
 ! 2024-02-20 - https://codenames.game/ Analytics
 https://codenames.game/api/event
-! 2024-02-22 https://trgoals726.xyz
+! 2024-02-22 https://trgoals726.xyz && https://trgoalsinat.pages.dev/inattv
 ##.topDuyuru
 ###duyuru1
 ##.contentReklam
 ###yayinSection > marquee
 ##body > div > a
 */restbetlogo.png$image
-*/tfM6phVaLR-jS6l5.m3u8$media
-/sayactrgoals
-/sayac.html
+*/tfM6phVaLR-jS6l5.m3u8*$media
+*/sayactrgoals
+*/sayacinat
+*/sayac.html
 https://data.fctablesmedia.com/cache/tables.json
