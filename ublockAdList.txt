@@ -3,8 +3,8 @@
 ! Diff-Path: 
 ! Title: RS - UBlock Turkish filter
 ! Description: My personal filter for Turkish websites. It blocks ads, pop-ups, banners, and other annoying elements.
-! Version: 2.0.0.5
-! TimeUpdated: 2024-02-22T22:50:00+03:00
+! Version: 2.0.0.6
+! TimeUpdated: 2024-02-22T22:56:00+03:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/ramazansancar/notes
 ! License: https://github.com/ramazansancar/notes/blob/main/LICENSE
@@ -399,3 +399,7 @@ https://codenames.game/api/event
 ###yayinSection > marquee
 ##body > div > a
 */restbetlogo.png$image
+*/tfM6phVaLR-jS6l5.m3u8$media
+/sayactrgoals
+/sayac.html
+https://data.fctablesmedia.com/cache/tables.json
