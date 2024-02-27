@@ -218,10 +218,6 @@ https://wauhs.com/botex/accept.php
 https://whos.amung.us/p2/ping/
 https://public-sdc.trendyol.com/discovery-web-socialgw-service/api/review-like/filter
 ! 2023-11-12 | 2023-11-15 https://taraftariumyayin37.pages.dev
-taraftariumyayin37.pages.dev##body > div > [href] > [src]
-taraftariumyayin37.pages.dev##body > div > a
-taraftariumyayin37.pages.dev###dqqqqq
-taraftariumyayin37.pages.dev##.topDuyuru
 /^taraftariumyayin\d+\.pages.dev$/##body > div > [href] > [src]
 /^taraftariumyayin\d+\.pages.dev$/##body > div > a
 /^taraftariumyayin\d+\.pages.dev$/###dqqqqq
@@ -423,3 +419,5 @@ https://stk.protechts.net/*
 https://fintables.com/monitoring*
 ! 2024-02-25 https://*.teamtailor.com/ Job pages
 ||*.teamtailor.com/pageview$xhr,1p
+! 2024-02-26 Fishing for Github
+https://githubtalentcommunity.githubcareers.online/
