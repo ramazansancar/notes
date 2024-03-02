@@ -3,8 +3,8 @@
 ! Diff-Path: 
 ! Title: RS - UBlock Turkish filter
 ! Description: My personal filter for Turkish websites. It blocks ads, pop-ups, banners, and other annoying elements.
-! Version: 2.0.0.12
-! TimeUpdated: 2024-02-25T16:26:00+03:00
+! Version: 2.0.0.13
+! TimeUpdated: 2024-03-03T01:20:00+03:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/ramazansancar/notes
 ! License: https://github.com/ramazansancar/notes/blob/main/LICENSE
@@ -265,9 +265,10 @@ https://cdn.e-devlet.gov.tr/themes/ankara/js/analitik.*
 dizipal654.com##center
 ! 2024-01-30 https://l6-dizipal11-one.cdn.ampproject.org
 l6-dizipal11-one.cdn.ampproject.org##center
-! 2024-02-02 https://inatflix2.xyz && 2024-02-20 https://inatflix4.xyz
+! 2024-02-02 https://inatflix2.xyz && 2024-02-20 & 2024-03-02 https://inatflix4.xyz
 /^inatflix\d+\.(xyz|(.*))$/##center
 /^inatflix\d+\.(xyz|(.*))$/###aa-wp > div > a
+/^inatflix\d+\.(xyz|(.*))$/##.ads_single_font
 ! 2024-02-15 https://www.papazsports177.pro/
 https://1.1.1.1/cdn-cgi/trace
 https://1.1.1.1/cdn-cgi/trace*
@@ -421,3 +422,6 @@ https://fintables.com/monitoring*
 ||*.teamtailor.com/pageview$xhr,1p
 ! 2024-02-26 Fishing for Github
 https://githubtalentcommunity.githubcareers.online/
+! 2024-02-25 https://fullhdfilmizle.vip/* (pages ad system)
+https://cdn.aj100.xyz/
+https://aj100.xyz/
