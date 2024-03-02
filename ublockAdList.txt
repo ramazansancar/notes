@@ -3,8 +3,8 @@
 ! Diff-Path: 
 ! Title: RS - UBlock Turkish filter
 ! Description: My personal filter for Turkish websites. It blocks ads, pop-ups, banners, and other annoying elements.
-! Version: 2.0.0.13
-! TimeUpdated: 2024-03-03T01:20:00+03:00
+! Version: 2.0.0.14
+! TimeUpdated: 2024-03-03T01:22:00+03:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/ramazansancar/notes
 ! License: https://github.com/ramazansancar/notes/blob/main/LICENSE
@@ -104,6 +104,7 @@ golvar620.xyz##.pageskin
 golvar620.xyz##[href="https://bit.ly/golvar"]
 golvar620.xyz##.vdldl
 https://video.twimg.com/ext_tw_video/1697730993543610368/pu/pl/w_Vm3y0kgcx82xmz.m3u8
+https://video.twimg.com/ext_tw_video/1757559875050102784/pu/pl/u6GYS-BdboVZi5Mj.m3u8
 https://discord.com/cdn-cgi/
 https://discord.com/api/v9/science
 https://discord.com/api/v10/science
@@ -384,6 +385,7 @@ www.garaveli.de##.adblockalert
 https://www.linkedin.com/BooHQJjQa-S0lIsBk77
 https://www.linkedin.com/lPbjxV1C_AiRbR1Bs
 https://www.linkedin.com/FOgRZ5o17cH1N
+https://www.linkedin.com/KON3hvOEhm
 https://careers-analytics.recruitee.com/api/event
 https://www.sahibinden.com/ajax/cs/afp?hx=10
 https://api.bazaarvoice.com
@@ -393,6 +395,7 @@ https://proxy-vlaqk7l2ta-uc.a.run.app
 ! 2024-02-20 - https://codenames.game/ Analytics
 https://codenames.game/api/event
 ! 2024-02-22 https://trgoals726.xyz && https://trgoalsinat.pages.dev/inattv
+trgoalsinat.pages.dev##center
 ##.topDuyuru
 ###duyuru1
 ##.contentReklam
