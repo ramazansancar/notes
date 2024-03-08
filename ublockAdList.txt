@@ -3,8 +3,8 @@
 ! Diff-Path: 
 ! Title: RS - UBlock Turkish filter
 ! Description: My personal filter for Turkish websites. It blocks ads, pop-ups, banners, and other annoying elements.
-! Version: 2.0.0.14
-! TimeUpdated: 2024-03-03T01:22:00+03:00
+! Version: 2.0.0.15
+! TimeUpdated: 2024-03-08T23:44:00+03:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/ramazansancar/notes
 ! License: https://github.com/ramazansancar/notes/blob/main/LICENSE
@@ -145,7 +145,7 @@ https://www.ciceksepeti.com/partytown-proxy?url=https%3A%2F%2Fwww.google-analyti
 https://www.ciceksepeti.com/Themes/Ciceksepeti/Assets/lib/partytown/lib/proxytown
 https://suggestion.ciceksepeti.com/api/v1/
 api.segment.io/v1
-https://www.reddit.com/svc/
+https://www.reddit.com/svc/shreddit/events
 _vercel/insights/view
 #https://europe-west3-test-biletdukkani-b2b.cloudfunctions.net/admin-getClientIp
 https://zxro.com/u/fb.php
