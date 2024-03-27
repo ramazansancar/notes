@@ -114,11 +114,11 @@ regexNickname: {
 - [Yeggi](https://www.yeggi.com/)
 - [Creality Cloud](https://www.crealitycloud.com/)
 
-# Windows Komutları
+## Windows Komutları
 
 - Cihaazın maksimum desteklediği ram miktarını görme (kb cinsinden): `wmic memphysical get maxcapacity` [Kaynak 1](https://teknoseyir.com/durum/1617041#comment-5812149) | [Kaynak 2](https://www.timetecinc.com/dram/check-maximum-ram-capacity-computer/)
 
-# İş İlanları
+## İş İlanları
 
 - [Jobs.lu](https://en.jobs.lu/)
 - [ICTJob.lu](https://www.ictjob.lu/en/job-search/)

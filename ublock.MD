@@ -2,9 +2,15 @@
 
 ## uBlock Origin Extension
 
-- [uBlock Origin - Chrome Web Store](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- Extension: [uBlock Origin - Chrome Web Store](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 ## uBlock Origin Filters
+
+Settings > Filter Lists > Import > Paste URLs > Click Apply Changes
+
+[Quick Go >>](chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#3p-filters.html) or [Quick Go (Alternative) >>](chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/3p-filters.html)
+
+### List
 
 ```txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_general.txt
@@ -18,6 +24,5 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilte
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/general_extensions.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/general_url.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/specific.txt
-
 https://raw.githubusercontent.com/ramazansancar/notes/main/ublockAdList.txt
 ```
