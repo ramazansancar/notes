@@ -8,7 +8,9 @@
 
 Settings > Filter Lists > Import > Paste URLs > Click Apply Changes
 
-[Quick Go >>](chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#3p-filters.html) or [Quick Go (Alternative) >>](chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/3p-filters.html)
+Quick Go >> `chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#3p-filters.html`
+
+Quick Go (Alternative) >> `chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/3p-filters.html`
 
 ### List
 
