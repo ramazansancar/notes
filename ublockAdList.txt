@@ -268,7 +268,7 @@ https://auzefsinav.istanbul.edu.tr/clm10
 https://cdn.jsdelivr.net/npm/devtools-detector
 https://cdn.e-devlet.gov.tr/themes/ankara/js/analitik.*
 ! 2024-01-30 https://dizipal654.com
-\dizipal\d+\.com##center
+/^dizipal\d+\.((.*))$/##center
 ! 2024-01-30 https://l6-dizipal11-one.cdn.ampproject.org
 l6-dizipal11-one.cdn.ampproject.org##center
 ! 2024-02-02 https://inatflix2.xyz && 2024-02-20 & 2024-03-02 https://inatflix4.xyz
