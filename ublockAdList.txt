@@ -3,8 +3,8 @@
 ! Diff-Path: 
 ! Title: RS - UBlock Turkish filter
 ! Description: My personal filter for Turkish websites. It blocks ads, pop-ups, banners, and other annoying elements.
-! Version: 2.0.0.20
-! TimeUpdated: 2024-04-04T18:51:00+03:00
+! Version: 2.0.0.21
+! TimeUpdated: 2024-04-04T19:19:00+03:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/ramazansancar/notes
 ! License: https://github.com/ramazansancar/notes/blob/main/LICENSE
@@ -283,6 +283,7 @@ l6-dizipal11-one.cdn.ampproject.org##center
 /^\s+\.click/player/assets/uploads/*.png$/
 /^\s+\.click/video/*$/##adStop
 https://dactylogagnant.click/player/assets/uploads/*.png
+https://i.hizliresim.com/fb4u1pb.png #inatflix sponsor
 ! 2024-02-15 https://www.papazsports177.pro/
 https://1.1.1.1/cdn-cgi/trace
 https://1.1.1.1/cdn-cgi/trace*
@@ -488,3 +489,5 @@ https://app.supademo.com/api/create-step-view
 https://app.supademo.com/api/demo-engaged
 ! 2024-04-04 https://*.canny.io/ | https://reflio.canny.io/api/views/create
 /^(.*).canny.io/api/views/create$/
+! 2024-04-04 https://www.yeniasya.com.tr
+||www.yeniasya.com.tr/sites/yeniasya/static/zekat-fitre-2024.html$subdocument
