@@ -3,8 +3,8 @@
 ! Diff-Path: 
 ! Title: RS - UBlock Turkish filter
 ! Description: My personal filter for Turkish websites. It blocks ads, pop-ups, banners, and other annoying elements.
-! Version: 2.0.0.19
-! TimeUpdated: 2024-04-04T18:43:00+03:00
+! Version: 2.0.0.20
+! TimeUpdated: 2024-04-04T18:51:00+03:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/ramazansancar/notes
 ! License: https://github.com/ramazansancar/notes/blob/main/LICENSE
@@ -271,11 +271,15 @@ https://cdn.e-devlet.gov.tr/themes/ankara/js/analitik.*
 /^dizipal\d+\.((.*))$/##center
 ! 2024-01-30 https://l6-dizipal11-one.cdn.ampproject.org
 l6-dizipal11-one.cdn.ampproject.org##center
-! 2024-02-02 https://inatflix2.xyz && 2024-02-20 & 2024-03-02 https://inatflix4.xyz
+! 2024-02-02 https://inatflix2.xyz && 2024-02-20 & 2024-03-02 https://inatflix4.xyz & hdfilmcehennemi3.xyz
 /^inatflix\d+\.(xyz|(.*))$/##center
 /^inatflix\d+\.(xyz|(.*))$/###aa-wp > div > a
 /^inatflix\d+\.(xyz|(.*))$/##.ads_single_font
 /^inatflix\d+\.(xyz|(.*))$/##adStop
+/^hdfilmcehennemi\d+\.(xyz|(.*))$/##center
+/^hdfilmcehennemi\d+\.(xyz|(.*))$/###aa-wp > div > a
+/^hdfilmcehennemi\d+\.(xyz|(.*))$/##.ads_single_font
+/^hdfilmcehennemi\d+\.(xyz|(.*))$/##adStop
 /^\s+\.click/player/assets/uploads/*.png$/
 /^\s+\.click/video/*$/##adStop
 https://dactylogagnant.click/player/assets/uploads/*.png
