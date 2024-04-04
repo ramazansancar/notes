@@ -3,15 +3,14 @@
 ! Diff-Path: 
 ! Title: RS - UBlock Turkish filter
 ! Description: My personal filter for Turkish websites. It blocks ads, pop-ups, banners, and other annoying elements.
-! Version: 2.0.0.17
-! TimeUpdated: 2024-04-02T19:39:00+03:00
+! Version: 2.0.0.18
+! TimeUpdated: 2024-04-04T18:30:00+03:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/ramazansancar/notes
 ! License: https://github.com/ramazansancar/notes/blob/main/LICENSE
 !
 !---------------------------------------------------------------------------!
 !---------------------------------------------------------------------------!
-
 twitch.tv##+js(twitch-videoad)
 ! 2023-07-17 https://kommunity.com
 ||kommunity.com/img/transiyzi/transiyzi-feed.png$image
@@ -27,7 +26,9 @@ https://www.migros.com.tr/rest/screen-views
 https://api-abtesting.flix360.io/
 https://h.n11.com/
 http://h.n11.com/__ha.gif
+https://h.n11.com/__ha.gif
 http://h.n11.com/__haMobile
+https://h.n11.com/__haMobile
 https://www.obilet.com/event
 https://www.isbank.com.tr/TSPD/?type=22
 https://obilethelp.zendesk.com/frontendevents/
@@ -43,6 +44,7 @@ www.vedbex.com##div.card-body.card.gutter-xs.row:nth-of-type(5)
 https://img.bolumsonucanavari.com/js/arkaplanreklam4.js
 https://excess.duolingo.com/batch
 https://r.stripe.com/0
+https://r.stripe.com/b
 https://sentry.io/api/127023/envelope/
 https://cdn.appdynamics.com/
 https://app.mailgun.com/logs/error
@@ -147,7 +149,7 @@ https://suggestion.ciceksepeti.com/api/v1/
 api.segment.io/v1
 ! https://www.reddit.com/svc/shreddit/events
 _vercel/insights/view
-#https://europe-west3-test-biletdukkani-b2b.cloudfunctions.net/admin-getClientIp
+https://europe-west3-test-biletdukkani-b2b.cloudfunctions.net/admin-getClientIp
 https://zxro.com/u/fb.php
 https://api.dmns.app/log
 https://api.openreplay.com/ingest/v1/web/i
@@ -161,7 +163,6 @@ https://api.evt.bsky.app/v1/t
 /Analytic.js
 https://www.eldoradogold.com/x0k461
 https://www.eldoradogold.com/js/doctracking.js
-https://h.n11.com
 https://www.n11.com/izle
 https://www.n11.com/live-chat
 ! 2023-08-14 https://mir.az
@@ -194,6 +195,10 @@ https://www.incehesap.com/ajax/urun_log.php
 # dizipal engelleyici
 https://fastly.jsdelivr.net/npm/disable-devtool@latest/disable-devtool.min.js
 disable-devtool.min.js
+! 2024-03-24 https://tvboff1.com
+||dizipaltv.net/*.mp4$media
+tvboff1.com###preRollBd
+tvboff1.com###adContentWrapper
 ! 2023-10-31 https://www.obilet.com
 www.obilet.com##.js-list-cross-sell-banner-container
 https://www.spotify.com/api/gabo-receiver-service/
@@ -263,13 +268,17 @@ https://auzefsinav.istanbul.edu.tr/clm10
 https://cdn.jsdelivr.net/npm/devtools-detector
 https://cdn.e-devlet.gov.tr/themes/ankara/js/analitik.*
 ! 2024-01-30 https://dizipal654.com
-dizipal654.com##center
+\dizipal\d+\.com##center
 ! 2024-01-30 https://l6-dizipal11-one.cdn.ampproject.org
 l6-dizipal11-one.cdn.ampproject.org##center
 ! 2024-02-02 https://inatflix2.xyz && 2024-02-20 & 2024-03-02 https://inatflix4.xyz
 /^inatflix\d+\.(xyz|(.*))$/##center
 /^inatflix\d+\.(xyz|(.*))$/###aa-wp > div > a
 /^inatflix\d+\.(xyz|(.*))$/##.ads_single_font
+/^inatflix\d+\.(xyz|(.*))$/##adStop
+/^\s+\.click/player/assets/uploads/*.png$/
+/^\s+\.click/video/*$/##adStop
+https://dactylogagnant.click/player/assets/uploads/*.png
 ! 2024-02-15 https://www.papazsports177.pro/
 https://1.1.1.1/cdn-cgi/trace
 https://1.1.1.1/cdn-cgi/trace*
@@ -429,3 +438,49 @@ https://githubtalentcommunity.githubcareers.online/
 ! 2024-02-25 https://fullhdfilmizle.vip/* (pages ad system)
 https://cdn.aj100.xyz/
 https://aj100.xyz/
+! 2024-03-16 https://www.youtube.com
+www.youtube.com##ytd-ad-slot-renderer
+! 2024-03-19 https://cbs.ibb.gov.tr/
+https://cbs.ibb.gov.tr/Map/Module/UsageStat
+! 2024-03-20 https://kelimeler.net
+||kelimeler.net/*.gif$image
+! 2024-03-21 https://monica.im/ Analytics
+https://monica.im/api/user_behavior/create_event_v2
+! 2024-03-25 https://npmtrends.com/
+https://npm-trends-proxy.uidotdev.workers.dev/s/log
+! 2024-03-29 https://www.numbers-stations.com/
+https://www.numbers-stations.com/ezais/dynamic?cb=1
+! 2024-03-30 https://www.trendyol.com/
+https://beholder-otlp.trendyol.com/
+https://beholder-otlp.trendyol.com/*
+! 2024-03-30 https://www.blockchain.com/explorer/
+https://api.blockchain.info/events/publish
+https://api.blockchain.info/events/*
+https://api.blockchain.info/nabu-gateway/geolocation2
+! 2024-03-30 https://www.dijipin.com
+www.dijipin.com##.b-top-a
+! 2024-04-01 https://www.technopat.net
+www.technopat.net##.samItem
+! 2024-04-01 https://fontawesome.com
+fontawesome.com##.wrap-ad
+! 2024-04-02 https://discord.com/ Error Sentry
+https://discord.com/error-reporting-proxy/web
+! 2024-04-03 https://www.eizo.be/monitor-test/
+https://www.eizo.be/csp-report.php
+! 2024-04-04 https://gidadedektifi.com Ads & Analytics
+https://api.gidadedektifi.com:8762/api/1.0/advertising-service
+https://api.gidadedektifi.com:8762/api/1.0/advertising-service/TR/get
+https://api.gidadedektifi.com:8762/api/1.0/showcase-service/TR/clicked
+gidadedektifi.com##.detective-ad-banner
+gidadedektifi.com##.detective-ad-rectangle
+gidadedektifi.com##.detective-ad-square
+gidadedektifi.com##.detective-ad-bottom
+! 2024-04-04 https://senja.io/
+https://track.senja.workers.dev/widget
+https://hog.senja.io/
+! 2024-04-04 https://www.supademo.com/
+https://app.supademo.com/api/create-view
+https://app.supademo.com/api/create-step-view
+https://app.supademo.com/api/demo-engaged
+! 2024-04-04 https://*.canny.io/ | https://reflio.canny.io/api/views/create
+/^(.*).canny.io/api/views/create$/
