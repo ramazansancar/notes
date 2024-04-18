@@ -117,48 +117,52 @@ https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 https://big.oisd.nl
+https://raw.githubusercontent.com/ramazansancar/notes/main/piHoleAdList.txt
 ```
 
 ## Domains
 
 ```txt
-Type: Exact whitelist - bundle-adee4.firebaseio.com
-Type: Exact whitelist - device-metrics-us-2.amazon.com
-Type: Exact whitelist - firebaseremoteconfig.googleapis.com
-Type: Exact whitelist - spclient.wg.spotify.com
-Type: Exact whitelist - unagi-na.amazon.com
+# Exact whitelist
+bundle-adee4.firebaseio.com
+device-metrics-us-2.amazon.com
+firebaseremoteconfig.googleapis.com
+spclient.wg.spotify.com
+unagi-na.amazon.com
 
-Type: Regex whitelist - mobile-collector.newrelic.com
+# Exact blacklist
+mobile-collector.newrelic.com
 
-Type: Exact blacklist - (\.|^)apkcombo\.com$
-Type: Exact blacklist - (\.|^)assets-jpcust\.jwpsrv\.com$
-Type: Exact blacklist - (\.|^)assets\.amung\.us$
-Type: Exact blacklist - (\.|^)benchmarkemail\.com$
-Type: Exact blacklist - (\.|^)clickhouse\.com$
-Type: Exact blacklist - (\.|^)codenames\.game$
-Type: Exact blacklist - (\.|^)dygassets\.dygdigital\.com$
-Type: Exact blacklist - (\.|^)gfe\.nvidia\.com$
-Type: Exact blacklist - (\.|^)gfwsl\.geforce\.com$
-Type: Exact blacklist - (\.|^)gravatar\.com$
-Type: Exact blacklist - (\.|^)ipapi\.co$
-Type: Exact blacklist - (\.|^)opensearch\.org$
-Type: Exact blacklist - (\.|^)posthog\.com$
-Type: Exact blacklist - (\.|^)res\.cloudinary\.com$
-Type: Exact blacklist - (\.|^)services\.gfe\.nvidia\.com$
-Type: Exact blacklist - (\.|^)splitbee\.io$
-Type: Exact blacklist - (\.|^)static-cdn\.jtvnw\.net$
-Type: Exact blacklist - (\.|^)store-images\.s-microsoft\.com$
-Type: Exact blacklist - (\.|^)translate\.google\.com$
-Type: Exact blacklist - (\.|^)t\.co$
-Type: Exact blacklist - (\.|^)wa\.me$
-Type: Exact blacklist - (\.|^)whos\.amung\.us$
-Type: Exact blacklist - (\.|^)yastatic\.net$
-Type: Exact blacklist - (\.|^)ythlsgo\.onrender\.com$
+# Regex whitelist
+(\.|^)apkcombo\.com$
+(\.|^)assets-jpcust\.jwpsrv\.com$
+(\.|^)assets\.amung\.us$
+(\.|^)benchmarkemail\.com$
+(\.|^)clickhouse\.com$
+(\.|^)codenames\.game$
+(\.|^)dygassets\.dygdigital\.com$
+(\.|^)gfe\.nvidia\.com$
+(\.|^)gfwsl\.geforce\.com$
+(\.|^)gravatar\.com$
+(\.|^)ipapi\.co$
+(\.|^)opensearch\.org$
+(\.|^)posthog\.com$
+(\.|^)res\.cloudinary\.com$
+(\.|^)services\.gfe\.nvidia\.com$
+(\.|^)splitbee\.io$
+(\.|^)static-cdn\.jtvnw\.net$
+(\.|^)store-images\.s-microsoft\.com$
+(\.|^)translate\.google\.com$
+(\.|^)t\.co$
+(\.|^)wa\.me$
+(\.|^)whos\.amung\.us$
+(\.|^)yastatic\.net$
+(\.|^)ythlsgo\.onrender\.com$
 
-Type: Regex blacklist - (\.|^)athena-event-provider\.n11\.com$
-Type: Regex blacklist - (\.|^)beholder-otlp\.trendyol\.com$
-Type: Regex blacklist - (\.|^)crashlyticsreports-pa\.googleapis\.com$
-Type: Regex blacklist - (\.|^)p2s\.gratis\.com$
-Type: Regex blacklist - (\.|^)passwordsleakcheck-pa\.googleapis\.com$
-Type: Regex blacklist - (\.|^)www\.baidu\.com$
+# Regex blacklist
+(\.|^)athena-event-provider\.n11\.com$
+(\.|^)beholder-otlp\.trendyol\.com$
+(\.|^)crashlyticsreports-pa\.googleapis\.com$
+(\.|^)p2s\.gratis\.com$
+(\.|^)passwordsleakcheck-pa\.googleapis\.com$
 ```

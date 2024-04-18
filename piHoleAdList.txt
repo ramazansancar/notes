@@ -1,0 +1,30 @@
+# Title: Ramazan Sancar - Hosts File
+# Description: Hosts file for blocking ads, malware, and tracking sites
+# Last modified: 2024-04-18
+# Number of unique domains: 30
+# Homepage: https://github.com/ramazansancar/notes/
+# License: -
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+0.0.0.0 mobile-collector.newrelic.com
+0.0.0.0 athena-event-provider.n11.com
+0.0.0.0 beholder-otlp.trendyol.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 p2s.gratis.com
+0.0.0.0 passwordsleakcheck-pa.googleapis.com
