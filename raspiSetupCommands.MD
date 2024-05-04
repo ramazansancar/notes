@@ -9,6 +9,13 @@ sudo apt-get dist-upgrade -y
 sudo apt-get autoremove -y
 ```
 
+## System Monitoring Tools Installation
+
+```bash
+sudo apt install bpytop -y
+```
+
+
 ## NVM Inslallation (Node Version Manager)
 
 ```bash
@@ -74,7 +81,7 @@ sudo apt install docker-compose -y
 
 ```bash
 #
-sudo docker run -d --name watchtower -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower
+sudo docker run -d --restart=always --name watchtower -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower
 ```
 
 ## Pi-hole Installation
@@ -97,6 +104,19 @@ touch update.sh && chmod +x update.sh #Optional
 echo "sudo docker-compose down" > update.sh
 echo "sudo docker-compose pull" >> update.sh
 echo "sudo docker-compose up -d" >> update.sh
+```
+
+### Uptime Kuma Installation
+
+```bash
+sudo docker run -d --restart=always -p 9999:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1
+```
+
+### FreshRSS Installation
+
+```bash
+# Important: Change {username} with your username
+sudo docker run -d --restart unless-stopped --log-opt max-size=10m -p 8888:80 -e TZ=Europe/Istanbul -e 'CRON_MIN=1,31' -v /home/{username}/freshrss/data:/var/www/FreshRSS/data -v /home/{username}/freshrss/extensions:/var/www/FreshRSS/extensions --name freshrss freshrss/freshrss
 ```
 
 ## Docker Image Cleanup (Remove Unused Docker Images)
