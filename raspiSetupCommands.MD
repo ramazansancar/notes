@@ -15,7 +15,6 @@ sudo apt-get autoremove -y
 sudo apt install bpytop -y
 ```
 
-
 ## NVM Inslallation (Node Version Manager)
 
 ```bash
