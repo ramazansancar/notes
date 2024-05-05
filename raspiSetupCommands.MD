@@ -142,13 +142,60 @@ docker rm $(docker ps -a | grep "Exited" | awk "{print $1}")
 #https://www.raspberrypi.org/documentation/configuration/tcpip/
 sudo nano /etc/dhcpcd.conf
 
-# Add the following lines to the end of the file
-interface eth0
-static ip_address=192.168.1.200
-static routers=192.168.1.1
-static domain_name_servers=1.0.0.1
+# Add the following lines to the end of the file and save it
 
-# Save the file and exit
+############################# Start Line #############################
+
+# Inform the DHCP server of our hostname for DDNS.
+hostname
+
+# Use the hardware address of the interface for the Client ID.
+clientid
+
+# Persist interface configuration when dhcpcd exits.
+persistent
+
+# Rapid commit support.
+# Safe to enable by default because it requires the equivalent option set
+# on the server to actually work.
+option rapid_commit
+
+# A list of options to request from the DHCP server.
+option domain_name_servers, domain_name, domain_search, host_name
+option classless_static_routes
+# Respect the network MTU. This is applied to DHCP routes.
+option interface_mtu
+
+# A ServerID is required by RFC2131.
+require dhcp_server_identifier
+
+# Generate SLAAC address using the Hardware Address of the interface
+#slaac hwaddr
+# OR generate Stable Private IPv6 Addresses based from the DUID
+slaac private
+
+# Ethernet
+interface eth0
+static ip_address=192.168.1.200/24
+static routers=192.168.1.50 # Access Point 1 (Optional)
+static domain_name_servers=1.1.1.1
+
+# Wifi
+interface wlan0
+static ip_address=192.168.1.250/24
+static routers=192.168.1.100 # Access Point 2 (Optional)
+static domain_name_servers=1.1.1.1
+
+############################# End Line #############################
+
+# Restart the Network Services
+sudo systemctl daemon-reload
+sudo systemctl restart dhcpcd
+sudo systemctl restart networking
+sudo systemctl restart network-manager
+sudo systemctl restart NetworkManager
+
+# Reboot the Raspberry Pi
 sudo reboot
 
 # Check the IP Address
