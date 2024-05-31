@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Offline</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        button {
+            padding: 10px 20px;
+            margin-top: 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="offlineMessage">Internet connection is not available</div>
+    <button id="refreshButton">Refresh</button>
+
+    <script>
+        const translations = {
+            'en': {
+                offlineMessage: 'Internet connection is not available',
+                refreshButton: 'Refresh'
+            },
+            'pt': {
+                offlineMessage: 'Conexão de internet não disponível',
+                refreshButton: 'Atualizar'
+            },
+            'tr': {
+                offlineMessage: 'İnternet bağlantısı kullanılamıyor',
+                refreshButton: 'Yenile'
+            },
+            'es': {
+                offlineMessage: 'Conexión a Internet no disponible',
+                refreshButton: 'Actualizar'
+            }
+        };
+
+        const offlineMessageEl = document.getElementById('offlineMessage');
+        const refreshButtonEl = document.getElementById('refreshButton');
+
+        let userLanguage = navigator.language || navigator.userLanguage;
+        userLanguage = userLanguage.substring(0, 2);  // Extracting first 2 chars to handle both (e.g., "en" and "en-US")
+
+        const languageStrings = translations[userLanguage] || translations['en'];
+
+        offlineMessageEl.textContent = languageStrings.offlineMessage;
+        refreshButtonEl.textContent = languageStrings.refreshButton;
+
+        refreshButtonEl.addEventListener('click', () => {
+            window.location.href = window.location.origin;
+        });
+    </script>
+</body>
+
+</html>
