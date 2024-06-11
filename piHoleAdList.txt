@@ -28,3 +28,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 p2s.gratis.com
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
+0.0.0.0 apm.anadolubank.com.tr
