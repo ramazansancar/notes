@@ -30,3 +30,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
 0.0.0.0 apm.anadolubank.com.tr
 0.0.0.0 ipcheck.tmgrup.com.tr
+0.0.0.0 sayac.tmgrup.com.tr
