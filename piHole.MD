@@ -118,6 +118,8 @@ https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/genera
 https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 https://big.oisd.nl
 https://raw.githubusercontent.com/ramazansancar/notes/main/piHoleAdList.txt
+https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/dns
+https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
 ```
 
 ## Domains
