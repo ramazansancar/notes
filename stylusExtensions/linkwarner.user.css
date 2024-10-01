@@ -1,0 +1,196 @@
+/* ==UserStyle==
+@name        Linkwarner
+@namespace   PonyWave
+@engine      Stylus
+@version     0.16
+@description It is a plugin that adds tags to see what the links are on file download sites.
+@mainURL     https://git.ponywave.de/Akamaru/Linkwarner
+@homepageURL https://git.ponywave.de/Akamaru/Linkwarner
+@updateURL   https://raw.githubusercontent.com/ramazansancar/notes/main/stylusExtensions/linkwarner.user.css
+@author      Akamaru, RamazanSancar
+##@#oldUpdateURL   https://git.ponywave.de/Akamaru/Linkwarner/raw/branch/master/linkwarner.user.css
+==/UserStyle== */
+
+/*Positive Links*/
+
+a[href*="drive.google.com/file/"]:after {
+    content: " (drive.google.com)";
+}
+a[href*="drive.google.com/open"]:after {
+    content: " (drive.google.com)";
+}
+a[href*="drive.google.com/drive/folders/"]:after {
+    content: " (drive.google.com)";
+}
+a[href*="mediafire.com/"]:after {
+    content: " (mediafire.com)";
+}
+a[href*="dosya.co/"]:after {
+    content: " (dosya.co)";
+}
+a[href*="dosya.vip/file/"]:after {
+    content: " (dosya.vip)";
+}
+a[href*="1drv.ms/u/"]:after {
+    content: " (onedrive.live.com)";
+}
+a[href*="gofile.io/"]:after {
+    content: " (gofile.io)";
+}
+a[href*="letsupload.co/"]:after {
+    content: " (letsupload.co)";
+}
+a[href*="s3.amazonaws.com/"]:after {
+    content: " (s3.amazonaws.com)";
+}
+a[href*="cloud.mail.ru/"]:after {
+    content: " (cloud.mail.ru)";
+}
+a[href*="foldr.us/"]:after {
+    content: " (foldr.us)";
+}
+a[href*="filecrypt.cc/"]:after {
+    content: " (filecrypt.cc)";
+}
+a[href*="download.serienjunkies.org/"]:after {
+    content: " (serienjunkies.org)";
+}
+a[href*="uploaded.net/"]:after {
+    content: " (uploaded.net)";
+}
+a[href*="ul.to/"]:after {
+    content: " (uploaded.net)";
+}
+a[href*="uploadboy.com/"]:after {
+    content: " (uploadBoy.com)";
+}
+a[href*="1fichier.com/"]:after {
+    content: " (1fichier.com)";
+}
+a[href*="mega.co.nz/"]:after {
+    content: " (mega.co.nz)";
+}
+a[href*="mega.nz/"]:after {
+    content: " (mega.nz)";
+}
+a[href*="mega.io/"]:after {
+    content: " (mega.io)";
+}
+a[href*="zippyshare.com/"]:after {
+    content: " (zippyshare.com)";
+}
+a[href*="file-upload.net/"]:after {
+    content: " (file-upload.net)";
+}
+a[href*="dailyuploads.net/"]:after {
+    content: " (dailyUploads.net)";
+}
+a[href*="turbobit.net/"]:after {
+    content: " (turbobit.net)";
+}
+a[href*="filepup.net/"]:after {
+    content: " (filePup.net)";
+}
+a[href*="multiup.org/"]:after {
+    content: " (MultiUp.org)";
+}
+a[href*="jheberg.net/"]:after {
+    content: " (jheberg.net)";
+}
+a[href*="hitfile.net/"]:after {
+    content: " (hitFile.net)";
+}
+a[href*="oboom.com/"]:after {
+    content: " (oboom.com)";
+}
+a[href*="linky.club/"]:after {
+    content: " (linky.Club)";
+}
+a[href*="yadi.sk/"]:after {
+    content: " (yandex Disk)";
+}
+a[href*="uptobox.com/"]:after {
+    content: " (upToBox.com)";
+}
+a[href*="dropapk.to/"]:after {
+    content: " (drop APK)";
+}
+a[href*="dosyadrive.vip/"]:after {
+    content: " (dosyaDrive.vip)";
+}
+a[href*="pixeldrain.com/"]:after {
+    content: " (pixeldrain.com)";
+}
+a[href*="dl.free.fr/"]:after {
+    content: " (dl.free.fr)";
+}
+a[href*="megaup.net/"]:after {
+    content: " (megaup.net)";
+}
+a[href*="qiwi.gg/file/"]:after {
+    content: " (qiwi.gg)";
+}
+
+
+/*Down Links*/
+
+a[href*="boerse.to/posts/11816261/"]:after {
+    content: " [Down!]";
+}
+a[href*="boerse.to/posts/12556308/"]:after {
+    content: " [Down!]";
+}
+a[href*="ncrypt.in/"]:after {
+    content: " [Down! (nCrypt.in)]";
+}
+a[href*="cryptor.to/"]:after {
+    content: " [Down! (Cryptor.to)]";
+}
+a[href*="rapidshare.com/"]:after {
+    content: " [Down! (RapidShare.com)]";
+}
+a[href*="streamcloud.eu/"]:after {
+    content: " [Down! (StreamCloud.eu)]";
+}
+a[href*="share-online.biz/"]:after {
+    content: " [Down! (Share-Online.biz)]";
+}
+a[href*="share-links.biz/"]:after {
+    content: " [Down! (Share-Links.biz)]";
+}
+a[href*="s2l.biz/"]:after {
+    content: " [Down! (Share-Links.biz)]";
+}
+
+/*Negative Links*/
+
+a[href*="bit.ly/"]:after {
+    content: " [Danger! Bit.ly!]";
+}
+a[href*="adf.ly/"]:after {
+    content: " [Danger! AdF.ly!]";
+}
+a[href*="j.gs/"]:after {
+    content: " [Danger! AdF.ly!]";
+}
+a[href*="linkcrypt.ws/"]:after {
+    content: " [Danger! LinkCrypt.ws!]";
+}
+a[href*="linksave.in/"]:after {
+    content: " [Danger! Linksave.in!]";
+}
+a[href*="smoozed.com/"]:after {
+    content: " [Danger! Smoozed.com!]";
+}
+a[href*="crypt.to/"]:after {
+    content: " [Danger! Crypt.to!]";
+}
+a[href*="relink.to/"]:after {
+    content: " [Danger! relink.to]";
+}
+a[href*="relink.us/"]:after {
+    content: " [Danger! relink.us]";
+}
+a[href*="up.d-ld.net/"]:after {
+    content: " [Danger! up.d-ld.net (turb.cc, Turbobit Shortener)]";
+}
