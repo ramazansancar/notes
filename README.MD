@@ -66,6 +66,7 @@ regexNickname: {
   - <https://docs.google.com/viewer?url=[FILE_URL]>
   - <https://drive.google.com/viewerng/viewer?embedded=true&url=[FILE_URL]>
     - [FILE_URL]: .pdf|.doc|.docx|.ppt gibi dosya uzantıların bağlantısı olmalıdır.
+  - <https://drive.usercontent.google.com/download?id=[DRIVE_ID]>
 
 ## Google Dorklar
 
