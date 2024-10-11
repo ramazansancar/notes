@@ -1,7 +1,7 @@
 # Title: Ramazan Sancar - Hosts File
 # Description: Hosts file for blocking ads, malware, and tracking sites
-# Last modified: 2024-04-18
-# Number of unique domains: 30
+# Last modified: 2024-10-11
+# Number of unique domains: 54
 # Homepage: https://github.com/ramazansancar/notes/
 # License: -
 
@@ -33,3 +33,42 @@ ff02::3 ip6-allhosts
 0.0.0.0 sayac.tmgrup.com.tr
 0.0.0.0 yalispor.api.useinsider.com
 0.0.0.0 countly.kommunity.com
+0.0.0.0 tracking.avansas.com
+0.0.0.0 o1052226.ingest.sentry.io
+0.0.0.0 telemetry.ibb-prod.istanbulsenin.kobil.com
+0.0.0.0 countly.teb.com.tr
+0.0.0.0 android-appboot.netflix.com
+0.0.0.0 consent.bumble.com
+0.0.0.0 data.gotinder.com
+0.0.0.0 reload.getsentry.net
+0.0.0.0 m.stripe.com
+0.0.0.0 fullprogramiindir.com
+0.0.0.0 execution-ci360.money.com.tr
+0.0.0.0 analytics.zenly-app.com
+0.0.0.0 getir-prod.api.kustomerapp.com
+0.0.0.0 rudderstack-external.data.getirapi.com
+0.0.0.0 wxhepz-cdn-settings.appsflyersdk.com
+0.0.0.0 wxhepz-launches.appsflyersdk.com
+0.0.0.0 stats.samsungpass.com
+0.0.0.0 trackerapi.defacto.com
+0.0.0.0 d.applvn.com
+0.0.0.0 analytics.snapchat.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 snapads.com
+0.0.0.0 d.applovin.com
+0.0.0.0 z.moatads.com
+0.0.0.0 da.chartboost.com
+0.0.0.0 imp.startappservice.com
+0.0.0.0 funnel-assets.startappservice.com
+0.0.0.0 infoevent.startappservice.com
+0.0.0.0 api.vungle.com
+0.0.0.0 api.ipify.org
+0.0.0.0 api64.ipify.org
+0.0.0.0 geoip.api.c0nnectthed0ts.com
+0.0.0.0 ul.api.c0nnectthed0ts.com
+0.0.0.0 geoip.api.p3insight.de
+0.0.0.0 checkip.amazonaws.com
+0.0.0.0 metricreceiver-prod.cellrebel.com
+0.0.0.0 tr-event.dengage.com
+0.0.0.0 configv2.unityads.unity3d.com
