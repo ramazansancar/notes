@@ -3,8 +3,8 @@
 ! Diff-Path: 
 ! Title: RS - UBlock Turkish filter
 ! Description: My personal filter for Turkish websites. It blocks ads, pop-ups, banners, and other annoying elements.
-! Version: 2.0.0.21
-! TimeUpdated: 2024-04-04T19:19:00+03:00
+! Version: 2.0.0.22
+! TimeUpdated: 2024-10-12T19:19:00+03:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/ramazansancar/notes
 ! License: https://github.com/ramazansancar/notes/blob/main/LICENSE
@@ -491,3 +491,373 @@ https://app.supademo.com/api/demo-engaged
 /^(.*).canny.io/api/views/create$/
 ! 2024-04-04 https://www.yeniasya.com.tr
 ||www.yeniasya.com.tr/sites/yeniasya/static/zekat-fitre-2024.html$subdocument
+! 2024-04-05 https://jobs.smartrecruiters.com/
+https://jobs.smartrecruiters.com/undefined
+https://careers.smartrecruiters.com/undefined
+! 2024-04-06 https://uym.ibb.gov.tr/yharita6/
+https://tkmservices.ibb.gov.tr/web/api/IntensityMap/v1/ToolBoxMetric
+https://api.ipify.org/
+! 2024-04-07 https://www.hurriyet.com.tr/yoldurumu/
+https://geoloc.hurriyet.com.tr/api/country/
+https://apps.hurriyet.com.tr/api/city/*
+
+! 2024-04-09 IP Detectors
+https://api.ipify.org/
+https://ipv4.icanhazip.com/
+https://icanhazip.com/
+https://*.icanhazip.com/
+https://api64.ipify.org/
+https://ipv6.icanhazip.com/
+
+! 2024--04-09 https://tiyatrolar.com.tr/ Search Save
+https://tiyatrolar.com.tr/frontend/save_search_via_ajax/
+https://tiyatrolar.com.tr/ajax/add_counter_row
+
+! 2024-04-09 https://www.teknostore.com
+||teknostore.com/image/*.gif$image
+! 2024-04-09 amazon.com.tr event tracker
+https://fls-eu.amazon.com.tr/*
+
+! 2024-04-10 hackerone.com events tracker
+https://hackerone.com/events
+https://www.hackerone.com/core/modules/statistics/statistics.php
+! 2024-04-10 CCTV http://cctv.okukab.go.id/
+http://cctv.okukab.go.id/map/viewer/ajax/set_statistics.php
+
+! 2024-04-11 Gratis tags
+https://p2s.gratis.com/*
+https://p2s.gratis.com/push/*
+
+! 2024-04-11 https://oyungezer.com.tr
+oyungezer.com.tr##.leftLink
+oyungezer.com.tr##.rightLink
+
+! 2024-04-12 discord
+https://discord.com/error-reporting-proxy/web
+
+! 2024-04-12 https://freestuffbot.xyz/
+https://panorama.wixapps.net/api/v1/bulklog
+
+! 2024-04-15 arcelik gtm
+https://www.arcelik.com.tr/gtm
+
+! 2024-04-15 https://www.trhaber.com
+www.trhaber.com##.sagsol-reklam-area
+
+! 2024-04-16 https://www.e-icisleri.gov.tr/ Analytics
+https://www.e-icisleri.gov.tr/clm10
+clm10/*
+
+! 2024-04-17 SCAM https://guvensizliklerledegl.net/ ip collector https://bayramsonrasikampanya.com/
+scripts/mng/datach.php?ip=
+datach.php?ip=
+
+! 2024-04-17 SCAM http://wwwfb-security-adverting-help-blocl-censor-key13ksd1829.bbbhardscapes.com/
+api/handleaction
+/api/handleaction
+
+https://borsaistanbul.com/TSPD/
+
+
+https://telemetry-web.api.playstation.com/api/telemetry/v1/publish/telemetry/telemetry/
+
+https://my.account.sony.com/bWcVJ7/
+
+! 2024-05-06 https://www.n11.com
+www.n11.com##.categoryAdArea
+www.n11.com##.adBiddingListArea
+
+! 2024-05-08 https://trovo.live
+||img.trovo.live/live_channel_logic/*.mp4$media
+
+
+https://tdm.trovo.live:8013/tdm/v1/kv
+
+https://ipapi.co/json
+https://www.tines.com/api/utils/locate-ip
+https://hq.tines.io/webhook/f0338e0689152b1171da5748eb46b2bc/3f21a00a5c31d5520cea837f6058581c
+https://hq.tines.io/webhook/*
+
+! 2024-05-09 https://www.zafer.gov.tr
+@@||www.zafer.gov.tr/js/cookiemanager.js$script,domain=www.zafer.gov.tr
+
+https://data.gotinder.com/v2/batch/event
+https://data.gotinder.com/v3/publish/app/json
+https://gew3.bumble.com/api_stats.phtml
+https://badoo.com/jss/js_error.phtml
+https://a.happn.com/v1/events
+
+https://harita.manisa.bel.tr/mbsapi/Logging/ClientLogService.svc/Create
+
+! https://cubicwords.com/generate/logo
+https://data.qseek.org/api/event
+
+! 27 May 2024 https://sametozsuleyman.com.tr
+sametozsuleyman.com.tr##.bookingaff
+
+! 27 May 2024 https://forum.donanimarsivi.com
+forum.donanimarsivi.com##.focus-ad
+||donanimarsivi.com/wp-content/uploads/*.jpg$image
+
+! 28 May 2024 https://pchocasi.com.tr
+||pchocasi.com.tr/wp-content/uploads/2023/12/arkaplan5.jpg$image
+pchocasi.com.tr###background-adser
+
+https://shy.12a.app
+! https://lu.ma/
+https://api.lu.ma/insights/
+https://api.lu.ma/insights/page-view
+https://api.lu.ma/insights/luma-event
+https://api.lu.ma/user/ping
+
+! https://movie-web.click/
+https://vidsrc.in/is_vip_str.php
+
+! https://www1.yoturkish.com/
+https://indirect-oz-metres-changed.trycloudflare.com/
+
+! 30 May 2024 https://filmizlehdfilm.com
+filmizlehdfilm.com##.play_ust_txt
+
+! https://dizifast.net/
+https://dovideolog.net/vast1-megapari.xml
+
+! https://basari601.bet/
+https://7slots.metrics-log.com/metrics-tracker/track
+/metrics-tracker/track
+/blank.gif
+https://demogamesfree.jtmmizms.net/gs2c/stats.do
+*.jtmmizms.net/gs2c/stats.do
+
+! 6 Haz 2024 obilet
+obilet.com##.list-cross-sell-banner
+
+! 6 Haz 2024 https://www.enuygun.com
+www.enuygun.com##.ads__fixed
+www.enuygun.com##.ads__center
+
+
+https://apm.anadolubank.com.tr/eum/
+
+! 18 Haz 2024 https://www.n11.com
+@@||n11scdn.akamaized.net/static/css/jquery/img/blank.gif$image,domain=www.n11.com
+
+! 19/06/2024 https://ramazan-sancar-f22cc633e.sentry.io/
+m.stripe.com
+
+! 21 Haz 2024 https://trendlinkler.com
+trendlinkler.com###esosyal-video
+
+! 22 Haz 2024 https://aylink.co
+aylink.co##.banner-image
+
+! 23 Haz 2024 https://www.cartoonito.com.tr
+www.cartoonito.com.tr##.platform_all.mpu.featured_item
+
+https://www.ahaber.com.tr/js/getbs?url=/video/canli-yayin
+
+
+https://lokum.fm.tv.tr/static
+https://film.ozelip.com/static
+
+
+https://www.canlitv.day/online/online.php
+
+! 27 Haz 2024 https://mgviagrtoomuch.co
+||*.gif$image,domain=mgviagrtoomuch.co
+mgviagrtoomuch.co##a
+! ||*betmatik.mp4$media
+
+/pop.js
+
+https://video.twimg.com/ext_tw_video/1778446044805640192/pu/pl/QSJD5BYeBmjpco_7.m3u8?variant_version=1&tag=12
+
+! 28 Haz 2024 https://streamstat.net
+streamstat.net##.lista_banner_sor
+streamstat.net##.content_banner_cella
+
+! LibreSpeed - telemetry
+telemetry.php
+
+! 2 Tem 2024 http://www.ucretleri.com
+||henhens340.vip/$subdocument
+
+! 4 Tem 2024 https://suite.endole.co.uk
+suite.endole.co.uk##.top_promo_bar
+
+https://udger.com/rpc/ch-res.php
+
+! 8 Tem 2024 https://www.akhisarhaberleri.com
+www.akhisarhaberleri.com###sol_rek
+www.akhisarhaberleri.com###sag_rek
+www.akhisarhaberleri.com###ustmanset_reklam_blok > .draggable.slick-list > .slick-track
+www.akhisarhaberleri.com##div.ust_manset_reklam_blok
+www.akhisarhaberleri.com##div.orta_rek.rek
+www.akhisarhaberleri.com##.header_rek.rek
+
+
+https://www.sportstv.com.tr:8188/cms-vod-client/vods/*/start
+https://www.sportstv.com.tr:8188/cms-vod-client/vods/*/stop
+
+https://www.sportstv.com.tr:8188/cms-btv-client/channels/*/start
+https://www.sportstv.com.tr:8188/cms-btv-client/channels/*/stop
+
+
+https://umami.aigenerations.net/api/send
+
+https://www.aski.gov.tr/TR/Default.aspx/Counter
+
+! 16 Tem 2024 https://iyifirma.com
+iyifirma.com##.pwaadds
+
+! 19 Tem 2024 https://businesschannelturk.com
+businesschannelturk.com##.leftr
+businesschannelturk.com##.righttr
+businesschannelturk.com##.des-g.ads
+businesschannelturk.com##.rk
+
+https://vercel.com/_stream/external/heapanalytics.com
+https://vercel.com/_stream/external/heapanalytics.com/api/telemetry
+
+https://www.sahibinden.com/ajax/expertise/funnel/purchase/trace
+https://www.sahibinden.com/ajax/auto360/trace/funnel
+
+! 21 Tem 2024 https://trakyaturktv.com
+trakyaturktv.com##.mbaner_fix_right
+trakyaturktv.com##.mbaner_fix_left
+trakyaturktv.com##.mpage_header_banner
+
+! 22 Tem 2024 https://tva.com.tr
+tva.com.tr##.solreklam
+
+https://webapp.pudo.com.tr/clm10
+
+https://controlpush.com/js/cpv1-vin.js
+https://web.canlitv.link/geo/
+https://geo.alfastreamtv.com/
+
+https://online-iade-finanasim.vercel.app/process.php
+
+https://tv-static-cdn.tvplus.com.tr/webtv/efili_mobile.json
+
+
+https://api.hrpanda.co/track
+
+https://codepen.io/stats/*
+
+! 5 Ağu 2024 https://1000kitap.com
+1000kitap.com##.border-cizgi.pt-3.border-b.overflow-hidden.dr
+
+! 5 Ağu 2024 https://*.medium.com
+/^\d+\.medium.com$/##.qp.qo.qn.ec
+
+https://moovitapp.com/api/debug/dump
+https://capi.moovit.com/api/public/sentry/config
+https://moovitapp.com/api/alert
+
+! 6 Ağu 2024 https://moovitapp.com
+moovitapp.com##.additional-ad-banner
+
+https://tr-event.dengage.com/api/event
+
+! 8 Ağu 2024 https://www.forbes.com
+www.forbes.com##div[class^="Table_tableAd__"]
+www.forbes.com##div[class*="Ad_adContainer__"]:remove()
+www.forbes.com##.outer-ad-container
+www.forbes.com##.top-ad-parent
+www.forbes.com###leaderboard-10
+www.forbes.com##tr.ng-scope.table-ad > td
+
+! 11 Ağu 2024 https://medium.com
+medium.com##.qr.qq.qp.ec
+
+! 16 Ağu 2024 https://ask.fm
+ask.fm##.askfm-ad-slot
+
+! 22 Ağu 2024 http://www.turktarim.gov.tr
+www.turktarim.gov.tr###middle
+
+! 27 Ağu 2024 https://kuponla.com
+kuponla.com##.get-code
+
+! 28 Ağu 2024 https://kadikoytarihicarsi.com
+kadikoytarihicarsi.com##figure.size-large.wp-block-image
+kadikoytarihicarsi.com##.overlay
+kadikoytarihicarsi.com##.widget_media_image.widget
+kadikoytarihicarsi.com##.mom-e3lanat-inner
+kadikoytarihicarsi.com##div.momizat-ads
+
+! 30 Ağu 2024 https://inceleriz.com
+inceleriz.com##.kan-banner
+inceleriz.com###ads__
+
+https://www.migros.com.tr/rest/screen-views
+
+https://www.cloudflare.com/cdn-cgi/trace
+
+https://script.metricbenders.com/
+https://prod-k8s.hesapkurdu.com/marketing-bff/v1/visit
+
+! 13 Eyl 2024 https://www.kariyer.net
+www.kariyer.net###sponsored-list
+
+
+https://x.com/i/api/1.1/jot/client_event.json
+
+https://1187013846746005515.discordsays.com/.proxy/analytics/v2/bc94da2219a0c03b1c3ac298bed49a2d/events
+https://1187013846746005515.discordsays.com/.proxy/sentry/
+https://gew4-spclient.spotify.com/gabo-receiver-service/public/v3/events
+https://gew4-spclient.spotify.com/gabo-receiver-service/v3/events
+https://discord.com/error-reporting-proxy/web
+
+! 26 Eyl 2024 https://spotifymate.com
+spotifymate.com###dlModal
+
+https://www.mediamarkt.com.tr/setCookie/*
+https://www.mediamarkt.com.tr/api/v1/msg
+
+https://execution-ci360.money.com.tr/js/ot2.min.js
+https://execution-ci360.money.com.tr/t/e/*
+https://execution-ci360.money.com.tr/t/s/p/*
+
+https://bilet.tcdd.gov.tr/clm10
+! https://www.migros.com.tr/rest/search/screens/*
+! https://www.migros.com.tr/rest/products/screens/*
+! https://www.migros.com.tr/rest/home/screens/*
+! https://www.migros.com.tr/rest/(.*)/screens/(.*)
+
+https://armenia.desertcart.com/api/search_query_analytics
+
+! 4 Eki 2024 https://kommunity.com
+kommunity.com##li.flex.activity-post:nth-of-type(3)
+
+! 7 Eki 2024 https://mgviagrtoomuch.com
+||mgviagrtoomuch.com/*.gif$image
+||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://mgviagrtoomuch.com/*.gif$image
+||mgviagrtoomuch.com/*.gif$image
+||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://mgviagrtoomuch.com/*.jpg$image
+
+! 7 Eki 2024 https://trgoals967.xyz
+||blogger.googleusercontent.com/*.gif$image
+||blogger.googleusercontent.com/*/ikimisli468x60.gif$image
+||https://blogger.googleusercontent.com/*/resbetlogo.jpg
+trgoals967.xyz###ornekReklam2
+trgoals967.xyz##[href^="https://aff.naoxzsw.com/tr/sign-up"]
+||blogger.googleusercontent.com/*resbetlogo.jpg$image
+https://blogger.googleusercontent.com/*/bahsegel.png
+
+! 8 Eki 2024 https://www.kaplansozluk.com
+www.kaplansozluk.com##[src="https://www.kaplansozluk.com/wp-content/uploads/2024/10/indir4.jpg"]
+
+! 10 Eki 2024 https://www.teknosa.com
+www.teknosa.com##.pap-card
+www.teknosa.com##.pap-link
+
+! 11 Eki 2024 https://dolap.com
+dolap.com##.redirectToDownloadApp.popup
+
+https://cdn.jsdelivr.net/gh/zen-browser/www/public/uma.js
+https://uma.zen-browser.app/api/send
+
+https://www.netflix.com/clearcookies
+
