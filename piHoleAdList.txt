@@ -1,6 +1,6 @@
 # Title: Ramazan Sancar - Hosts File
 # Description: Hosts file for blocking ads, malware, and tracking sites
-# Last modified: 2024-10-11
+# Last modified: 2024-10-24
 # Number of unique domains: 55
 # Homepage: https://github.com/ramazansancar/notes/
 # License: -
@@ -25,6 +25,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 athena-event-provider.n11.com
 0.0.0.0 beholder-otlp.trendyol.com
+0.0.0.0 demeter-tr-core-collect.trendyol.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 p2s.gratis.com
 0.0.0.0 passwordsleakcheck-pa.googleapis.com
