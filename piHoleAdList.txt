@@ -76,3 +76,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 d.nordvpn.com
 0.0.0.0 geo.lavasoft.com
+0.0.0.0 collect.avqtools.com
