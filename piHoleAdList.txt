@@ -24,6 +24,7 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 athena-event-provider.n11.com
+0.0.0.0 www.dsmgrup.com
 0.0.0.0 beholder-otlp.trendyol.com
 0.0.0.0 demeter-tr-core-collect.trendyol.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
