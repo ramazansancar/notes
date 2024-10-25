@@ -79,3 +79,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 geo.lavasoft.com
 0.0.0.0 collect.avqtools.com
 0.0.0.0 ts.tracker-api.vk-analytics.ru
+0.0.0.0 tracker-api.vk-analytics.ru
