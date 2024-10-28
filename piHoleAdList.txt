@@ -80,5 +80,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 collect.avqtools.com
 0.0.0.0 ts.tracker-api.vk-analytics.ru
 0.0.0.0 tracker-api.vk-analytics.ru
+0.0.0.0 ip4.tracker-api.vk-analytics.ru
 0.0.0.0 api.gleap.io
 0.0.0.0 showtv-tr.2cnt.net
