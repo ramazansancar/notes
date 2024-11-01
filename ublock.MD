@@ -29,4 +29,5 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilte
 https://raw.githubusercontent.com/ramazansancar/notes/main/ublockAdList.txt
 https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/filters/turkish_generic_content_blocker.txt
 https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/filters/I-Do-Not-Want-Your-Mobile-App.txt
+https://raw.githubusercontent.com/nightznero/NIGHTZNERO-Filter-Lists/main/WhiteLists/Whitelist_DNS
 ```
