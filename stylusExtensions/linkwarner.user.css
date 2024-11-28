@@ -22,6 +22,9 @@ a[href*="drive.google.com/open"]:after {
 a[href*="drive.google.com/drive/folders/"]:after {
     content: " (drive.google.com)";
 }
+a[href*="docs.google.com/"]:after {
+    content: " (docs.google.com)";
+}
 a[href*="mediafire.com/"]:after {
     content: " (mediafire.com)";
 }
