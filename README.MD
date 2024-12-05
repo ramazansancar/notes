@@ -118,13 +118,16 @@ regexNickname: {
 ## Windows Komutları
 
 - Cihazın Markasını görme: `wmic csproduct get vendor`
-- Cihazın Modelini görme: `wmic csproduct get name`
+- Cihazın Modelini görme: `wmic csproduct get name` veya `wmic baseboard get Product`
 - Cihazın Seri Numarasını görme: `wmic bios get SerialNumber` veya `wmic csproduct get IdentifyingNumber`
 - Cihazın maksimum desteklediği bellek(ram) miktarını görme (kb cinsinden): `wmic memphysical get maxcapacity` [Kaynak 1](https://teknoseyir.com/durum/1617041#comment-5812149) | [Kaynak 2](https://www.timetecinc.com/dram/check-maximum-ram-capacity-computer/)
 - Cihazda kaç bellek(ram) takılı olduğunu görme: `wmic memphysical get MemoryDevices`
+- Cihazın anakartının Markasını görme: `wmic baseboard get Manufacturer`
+- Cihazın anakartının Modelini görme: `wmic baseboard get Model`
 
 > [!NOTE]
 > `wmic` komutları küçük-büyük harf duyarlı değiştir.
+> `get` sonrası yazılan komutları `,` ile ayırarak toplu görüntüleyebilirisiniz. Örneğin: `wmic baseboard get Manufacturer,Product,Model`
 
 ## İş İlanları
 
