@@ -324,13 +324,13 @@ https://www.linkedin.com/kOshZzQJR-2UaAQUW39
 !######### Tested only with uBlock Origin
 !######## Remove Groups and Suppress some or all like/comments/posts from chatty contacts ################
 ## Block everything from John Doe, likes from Jane Doe
-linkedin.com#?#div:-abp-has(> .feed-shared-header:-abp-contains(/John Doe|Jane Doe likes this/i))
+!# linkedin.com#?#div:-abp-has(> .feed-shared-header:-abp-contains(/John Doe|Jane Doe likes this/i))
 !######## For connections that repost too much content ###########
-linkedin.com#?#div:-abp-has(> .feed-shared-actor:-abp-contains(/John Adams|George Washington/i))
+!# linkedin.com#?#div:-abp-has(> .feed-shared-actor:-abp-contains(/John Adams|George Washington/i))
 !########### Groups you don't want to see. Sometimes a group will appear in more than one feed. #############
-linkedin.com#?#div:-abp-has(> .feed-shared-header:-abp-contains(/Popular course|So and So Honor Society|University of Junk|Business Group of Junk/i))
-linkedin.com#?#div:-abp-has(> .feed-shared-update-v2:-abp-contains(/Business Group of Junk/i))
-linkedin.com#?#div:-abp-has(> .feed-shared-actor:-abp-contains(/University of Junk|Other Junk/i))
+!# linkedin.com#?#div:-abp-has(> .feed-shared-header:-abp-contains(/Popular course|So and So Honor Society|University of Junk|Business Group of Junk/i))
+!# linkedin.com#?#div:-abp-has(> .feed-shared-update-v2:-abp-contains(/Business Group of Junk/i))
+!# linkedin.com#?#div:-abp-has(> .feed-shared-actor:-abp-contains(/University of Junk|Other Junk/i))
 !########### annoying side blocks and ads ############
 # linkedin.com#?#.pb3.pt2.learning-top-courses
 # linkedin.com#?#.feed-follows-module
@@ -338,7 +338,7 @@ linkedin.com#?#div:-abp-has(> .feed-shared-actor:-abp-contains(/University of Ju
 # linkedin.com#?#.global-footer-compact
 # linkedin.com#?#div:-abp-has(> .msg-overlay-bubble-header)
 !########### Politics #############
-linkedin.com#?#div:-abp-has(> .feed-shared-update-v2:-abp-contains(/Trump|Biden/i))
+!# linkedin.com#?#div:-abp-has(> .feed-shared-update-v2:-abp-contains(/Trump|Biden/i))
 https://turkcell.api.useinsider.com/ins.js
 https://hit.api.useinsider.com/hit
 https://locationv2.api.useinsider.com/
