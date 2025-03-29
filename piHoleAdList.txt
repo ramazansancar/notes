@@ -83,5 +83,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ip4.tracker-api.vk-analytics.ru
 0.0.0.0 api.gleap.io
 0.0.0.0 showtv-tr.2cnt.net
+0.0.0.0 events.animecix.co
 0.0.0.0 geoip.apps.getjoy.ai
 0.0.0.0 logger2.playablefactory.app # Mobile App Wheel Games Log
