@@ -858,5 +858,7 @@ dolap.com##.redirectToDownloadApp.popup
 https://cdn.jsdelivr.net/gh/zen-browser/www/public/uma.js
 https://uma.zen-browser.app/api/send
 
-https://www.netflix.com/clearcookies
+! https://www.netflix.com/clearcookies
 
+! Query parameter stripping
+$removeparam=gads
