@@ -704,7 +704,7 @@ https://www.sportstv.com.tr:8188/cms-btv-client/channels/*/stop
 
 https://umami.aigenerations.net/api/send
 
-https://www.aski.gov.tr/TR/Default.aspx/Counter
+! https://www.aski.gov.tr/TR/Default.aspx/Counter # Baraj verileri alınıyormuş buradan
 
 ! 16 Tem 2024 https://iyifirma.com
 iyifirma.com##.pwaadds
