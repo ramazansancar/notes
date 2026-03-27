@@ -862,3 +862,826 @@ https://uma.zen-browser.app/api/send
 
 ! Query parameter stripping
 $removeparam=gads
+
+https://geoip.ciner.com.tr/
+https://www.showtv.com.tr/adscbg/adsFrame.html
+https://www.showtv.com.tr/adscbg/**
+https://mo.ciner.com.tr/assets/htplay/js/library/ads.min.js
+https://downdetector.web.tr/cdn-cgi/trace/
+
+! 17 Eki 2024 https://casibom.top
+casibom.top##.wp-image-30.size-full.aligncenter
+casibom.top##.wp-image-25.size-full.aligncenter
+! casibom Bet Tracker
+https://clctr.ltguevmavv.com/collect
+https://unpkg.com/@grafana/faro-web-sdk@1.10.2/dist/bundle/faro-web-sdk.iife.js
+
+! 19 Eki 2024 https://www.perpalife.com
+www.perpalife.com##.avia_partner_widget
+
+https://gardrops.com/resources/user_logs
+https://gardrops.com/watchdog/posts_visits_record
+
+! 24 Eki 2024 https://pornolab.net
+pornolab.net###bn-toy-1
+
+! 25 Eki 2024 https://pornolab.net
+pornolab.net###pl-speedbar td
+pornolab.net##[href^="https://bongacams8.com/track"]
+
+! 27 Eki 2024 https://inattv710.xyz
+/^inattv\d+\.(com|xyz|(.*))$/##.topDuyuru
+
+
+https://api.gleap.io/sessions/ping
+https://api.gleap.io/sessions
+https://app.varify.io/v/*
+
+! 27 Eki 2024 https://mgviagrtoomuch.com
+mgviagrtoomuch.com##center > [href]
+
+! 27 Eki 2024 https://www.justintv100.pro
+||*ultrabetpage.png$image
+||*betkolik*.gif$image
+||*setra*.gif$image
+
+! 27 Eki 2024 https://www.anakinsun.com
+||*betkolikpage.png$image
+www.anakinsun.com###aman
+www.anakinsun.com##.reklamalanmasa
+||*ultra*.gif$image
+
+! 27 Eki 2024 https://www.darthsebious.com
+www.darthsebious.com###amans
+||*smart*.gif$image
+www.darthsebious.com###playerAdv2
+
+! 27 Eki 2024 https://www.dadshangout.com
+www.dadshangout.com###amans
+www.dadshangout.com###playerAdv2
+
+! 27 Eki 2024 https://mevzuspor1.com
+mevzuspor1.com##.odds-container.Tenisi.Masa
+
+! 27 Eki 2024 https://justin-tv.pro
+justin-tv.pro##[href="https://bit.ly/iptvoldhd"]
+
+https://92a0ddf3d64d.c1cdd57a.eu-central-1.token.awswaf.com/92a0ddf3d64d/c8f83852f285/inputs?client=browser
+https://92a0ddf3d64d.c1cdd57a.eu-central-1.token.awswaf.com/92a0ddf3d64d/c8f83852f285/telemetry
+https://92a0ddf3d64d.c1cdd57a.eu-central-1.token.awswaf.com/92a0ddf3d64d/c8f83852f285/verify
+
+
+https://okul.com.tr/ajax/addLog
+
+! 29 Eki 2024 https://yandex.com.tr
+yandex.com.tr###money-main
+
+! 1 Kas 2024 https://www.youtube.com
+@@||yt4.ggpht.com/**$image,domain=www.youtube.com
+
+
+https://game.hktapps.com/api/daily-analytic.json
+https://geoip.apps.getjoy.ai/geo.json
+
+@@||z-lib.id
+
+! 6 Kas 2024 https://forumfiber.com
+||helpmert.com/comnet-yeni-basvuru.jpg$image
+
+! 6 Kasım 2024 https://playablefactory.com/jobs/
+https://aplo-evnt.com/api/v1/intent_pixel/track_request
+https://assets.apollo.io/micro/website-tracker/tracker.iife.j
+/micro/website-tracker/tracker.iife.js
+
+https://i.tmgrup.com.tr/contactus/j/mobile-detect.js
+
+! 9 Kas 2024 https://www.radyoyayini.com
+||www.radyoyayini.com/images/6.jpg$image
+||www.radyoyayini.com/images/5.jpg$image
+||www.radyoyayini.com/images/*.jpg$image
+
+https://turk.net/ip.php
+
+https://api.sextpanther.com/feed/impression
+
+! 13 Kas 2024 https://gatherin.life
+@@||global.vss.twilio.com/signaling$websocket,domain=gatherin.life
+
+||sysmeasuring.net
+||ganalyticshub.net
+sysmeasuring.net
+ganalyticshub.net
+
+! 21 Kas 2024 https://fatihaltayli.com.tr
+fatihaltayli.com.tr###tdi_21
+
+! 21 Kas 2024 https://dizipal1011.com - Clone
+/^dizipal\d+\.(com|(.*))$/##.ads_single_font
+/^dizipal\d+\.(com|(.*))$/##.custom-html-widget
+/^dizipal\d+\.(com|(.*))$/###custom_html-2
+
+! 22 Kas 2024 https://www.diziyou.co
+||cdn.diziyou.co/wp-content/*.gif$image
+
+! 22 Kas 2024 https://www.gifkoanaliz.com
+www.gifkoanaliz.com##.ads-ver
+www.gifkoanaliz.com##.mobile-only-link
+
+! 26 Kas 2024 https://zohostatus.com
+zohostatus.com###footerPart
+
+! 28 Kasım 2024 https://dashboard.startupdeal.co/ Sentry Logging
+https://dashboard.startupdeal.co/monitoring
+https://dashboard.startupdeal.co/monitoring/
+https://dashboard.startupdeal.co/cdn-cgi/challenge-platform/**
+
+https://piwik.dnsforge.de/matomo.js
+https://piwik.dnsforge.de/matomo.php
+
+https://assets.pinterest.com/js/pinit.js
+https://assets.pinterest.com/js/pinit_main.js
+
+! 9 Ara 2024 https://publicholidays.de
+publicholidays.de##.phg-ad
+
+! 12 Ara 2024 https://www.star.com.tr
+www.star.com.tr##[href="https://necipfazilodulleri.com/"]
+www.star.com.tr##body > .container > div
+
+
+https://babafilmizlet.com/s-m11.js
+https://hotstream.club/ps59.php
+https://bit.ly/1x-bet01
+https://filmsaati1.com/1xr.mp4
+
+! 19 Ara 2024 https://mir.az
+mir.az##.reklamshot
+
+https://log.strawpoll.com/api/event
+
+ident.me
+https://v4.ident.me/json
+https://v6.ident.me/json
+https://ifconfig.co/json
+ifconfig.co
+https://srv.us/h
+https://ipapi.co/json/
+https://geo.ipify.org/api/v2/country,city
+https://approvals-api.getsimpl.com/my-ip
+
+
+https://eksisozluk.com/matterindex/topicmattersummary*
+
+! 22 Ara 2024 https://kommunity.com
+kommunity.com##.ad-banner
+
+https://videojs.tmgrup.com.tr/json/getLiveAdsTimer
+
+https://241968574.top/livechat.php
+https://1.0.0.1/cdn-cgi/trace
+
+
+https://www.waze.com/web-events
+
+! 26 Oca 2025 https://bosssports5.com
+bosssports5.com##.helpers
+
+! 26 Oca 2025 https://www.selcuksporthd24.com
+www.selcuksporthd24.com##.reklamalanmasa
+www.selcuksporthd24.com##.textwidget > p
+
+https://proxydb.net/l
+
+https://cdn.dsmcdn.com/sfint/production/demeter**
+
+https://api.radyotrafik.com/api/Web/Advertisement
+
+! 29 Oca 2025 https://asyaanimeleri.com
+asyaanimeleri.com##div.kln
+
+! 30 Oca 2025 https://dizipal3.com
+/^dizipal\d+\.(com|(.*))$/##.body-clickable
+
+
+! 30 Oca 2025 https://herpet.net
+herpet.net##.ads-container
+
+! 2 Şub 2025 https://fullhdfilm.vip
+||www.filmbari.com/uploads/rbps2.webp$image
+
+https://ipapi.co/json/
+
+! 5 Şub 2025 https://www.sitepoint.com
+www.sitepoint.com###community-sidebar-right
+www.sitepoint.com###community-sidebar-left
+www.sitepoint.com##.sticky-side-unit
+
+https://wakatime.com/api/v1/metrics/timing
+
+! https://chat.deepseek.com/ Analytics
+https://lf3-data.volccdn.com/
+https://lf3-data.volccdn.com/obj/data-static/log-sdk/collect/5.0/collect-rangers-v5.2.1.js
+https://gator.volces.com/list
+https://apmplus.volces.com/
+https://apmplus.volces.com/monitor_web/collect
+
+https://bundles.efilli.com/
+https://bundles.efilli.com/akakce.com.prod.js
+https://www.akakce.com/akakcem/act/
+https://cdn.akakce.com/t.gif
+https://st.akakce.com/scripts/mobileg.js
+https://st.akakce.com/scripts/mobilec.js?202502111
+
+/vastv14.xml
+
+! 19 Şub 2025 https://yenifirma.com.tr
+yenifirma.com.tr##.banner-container
+
+! 20 Şub 2025 https://www.linkedin.com
+www.linkedin.com##.premium-upsell-link
+
+https://www.temu.com/api/tk/c
+
+
+https://falcon.useinsider.com/api/v1/
+
+! Now Collector
+api/collector/tag
+api/collector/collect
+https://w2epsrhsbnit.merlincdn.net/api/collector/tag
+https://twdc.gospock.com/api/collector/tag
+https://w2epsrhsbnit.merlincdn.net/api/collector/collect
+https://twdc.gospock.com/api/collector/collect
+
+! Habertürk
+https://www.haberturk.com/adscbg/cbglout.js
+
+https://tr.pinterest.com/resource/ApiSResource/create/
+https://tr.pinterest.com/resource/ApiCResource/create/
+
+
+https://s.bunq.com/v1/events
+https://obseu.thisgreencolumn.com/mon
+https://obseu.thisgreencolumn.com/dc/1
+
+! Kariyer.net
+https://crcldu.com/bd/h.php
+https://api-web.kariyer.net/jb/v1/api/common/SaveCandidateUtmInformation
+
+https://umami.crapstone.xyz/api/send
+https://umami.crapstone.xyz/
+
+https://sizetube.com/byohybtjepdbu.php
+! https://sizetube.com/api/v1/config/
+
+! 14 Mar 2025 https://sizetube.com
+sizetube.com##body > div:nth-of-type(2)
+
+
+https://links.tevfikuyar.com/log_click.php
+
+! 26 Mar 2025 https://www.diziyou5.com
+/^www\.diziyou\d+\.(com|(.*))$/###wrap > [href]
+/^www\.diziyou\d+\.(com|(.*))$/##.diziyouFooter
+
+https://guncelsikayetler-62.sbs/login-384/cron.php
+
+https://events.animecix.co/api/event
+
+! 29 Mar 2025 https://dizimag.net
+dizimag.net###popup-overlay
+||vipfilmizle.net/*.gif$image
+dizimag.net##a.z-10.relative
+https://getter.fun/
+https://dizimag.net/kripto6.js
+
+
+! https://www.sinemax.cc/
+https://sinezy.net/728x902.mp4
+https://sinezy.net/betzul.mp4
+https://sinezy.net/betsat.mp4
+
+https://r2.leadsy.ai/tag.js
+https://api.instantly.ai/api/v1/website-visitors/*
+
+! 3 Nis 2025 https://www.haberler.com
+www.haberler.com##.info-text
+https://worker.haberler.com/haberOkunma
+https://www.haberler.com/mstatic/js/okunma-sayisi.js
+
+perimeterx.net/api/v1/collector
+https://collector-pxqzr3quy9.perimeterx.net/api/v1/collector
+
+https://ebilet.tcddtasimacilik.gov.tr/clm10
+
+https://prod.elliot.ai/discover/activity
+https://prod.elliot.ai/discover/ping
+
+ip.im
+ipv4.im
+ip.im/info
+
+! Now TV
+https://w2epsrhsbnit.merlincdn.net/api/collector/collect
+https://w2epsrhsbnit.merlincdn.net/api/collector/tag
+
+! 7 Nis 2025 https://filmizlevip.com
+||filmizlevip.com/wp-content/uploads/2024/08/player.gif$image
+
+! 7 Nis 2025 https://monotv523.com
+/^monotv\d+\.(com|(.*))$/##.ads-img
+/^monotv\d+\.(com|(.*))$/##[href^="http://commissionwall8.com/e/r/20224"]
+
+! 8 Nis 2025 https://popk24.cfd
+popk24.cfd##[href="https://cutt.ly/6eNJ8nEY"]
+
+! 8 Nis 2025 https://raw.githack.com
+raw.githack.com##[href="https://bit.ly/iptvoldhd"]
+
+! 8 Nis 2025 https://buenosairesideal.com
+buenosairesideal.com##.adsPanelDesktop
+buenosairesideal.com##[href="https://bit.ly/iptvoldhd"]
+
+https://app.splitbee.io/va/
+https://app.splitbee.io/va/view
+https://app.splitbee.io/stats/
+https://app.splitbee.io/stats/end
+https://app.splitbee.io/stats/i
+
+https://analytics.strapi.io/api/v2/track
+
+
+https://api.events.unlayer.com/save
+https://api.events.unlayer.com/usage
+
+https://www.showturk.com.tr/dynamics/geoipj
+https://www.pornhub.com/_xa/ads_batch
+https://www.pornhub.com/_i
+
+https://maps.apple.com/data/performanceAnalytics
+
+https://maps.apple.com/data/analyticsStatus
+
+! 1 May 2025 https://dbdiagram.io
+dbdiagram.io##.corner-banner
+
+https://ann.dnsvds.net/v1/channel
+ann.dnsvds.net
+wss://au.dnsvds.net
+wss://us.dnsvds.net
+au.dnsvds.net
+us.dnsvds.net
+eu.hdtvcloud.com
+us.hdtvcloud.com
+hk.swarmcloud.net
+gz.cdnbye.com
+
+https://wetransfer.com/api/web-metrics
+https://lebowski.wetransfer.com/v1/desktop
+
+https://api.e-udf.com/?folder=site&page=log&isDev=
+
+! 8 May 2025 https://kommunity.com
+kommunity.com##.banner-wrapper
+
+! 9 May 2025 https://tr.parkopedia.com/parking/carpark/vak_des_otopark/35220/izmir/
+https://ingestor.parkopedia-ppds.com/analytics
+
+https://iptv-web.app/t
+https://a.iptv-web.app/api/send
+https://api.iptv-web.app/streamStatus
+
+https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/log
+https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/log?key=
+https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/log?key=*
+https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/log?key=AIzaSyCx80ru6-RXeTi3GvqkFsMVyMf-vpgIoVw
+
+https://countly.iyzico.com/
+https://countly.iyzico.com/i
+
+https://ode.iyzico.com/clm10
+
+https://wa.wawlabs.com/
+
+! 27 May 2025 https://www.carrefoursa.com
+www.carrefoursa.com##.gowit-top-banner-container
+
+https://steamdb.info/static/js/vendor/bugsnag.js
+
+https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/log
+
+
+https://visualpingjzt.dataplane.rudderstack.com/v1/track
+https://metrics.monspark.com
+
+https://d-ipv6.mmapiws.com/ant_squire
+https://geoip.maxmind.com/geoip/v2.1/city/me
+
+! incehesap tracker
+https://mc.yango.com/metrika/int_yango.js
+https://www.googletagmanager.com/gtm.js?id=
+https://www.googletagmanager.com/gtm.js?id=GTM-W6JRRJ5
+https://www.google.com/ccm/collect?
+
+! QNB Sanal Pos log - https://acs.qnb.com.tr/js/bundle.min.js
+! https://acs.qnb.com.tr/api/log
+
+! https://profile.codersrank.io/leaderboard/developer?country=Turkey
+https://canny.io/sdk.js
+
+! https://www.skool.com/
+https://as.atlassian.com/api/v1/batch
+https://www.loom.com/insights-api/graphql
+
+https://backend.leadconnectorhq.com/stats/event
+https://backend.leadconnectorhq.com/calendars/booking-analytics/event/submit
+
+braze-sdk.js
+
+https://www.biletdukkani.com/_nuxt/vendors/braze-sdk.js?v=b8b2731
+https://bat.bing.com/bat.js
+https://bat.bing.com/actionp/0
+https://bat.bing.com/p/insights/s/0.8.19
+https://bat.bing.com/
+https://bat.bing.com/p/insights/c/b
+https://bat.bing.com/p/insights/s/0.8.23
+
+! 18 Tem 2025 https://www.haberler.com
+www.haberler.com##.sidebox.WpColumn
+www.haberler.com##.ad-right-160
+www.haberler.com##.ad-left-160
+www.haberler.com##.reklam-card
+
+
+https://status.tailscale.com/report-error
+
+
+https://one.one.one.one/cdn-cgi/trace
+https://1.1.1.1/cdn-cgi/trace
+https://platform.dash.cloudflare.com/sentry/envelope
+
+! peerlist.io
+https://jarvis.peerlist.io/s/
+https://jarvis.peerlist.io/
+https://stargazing.peerlist.io/api/send
+https://stargazing.peerlist.io/
+https://stargazing.peerlist.io/script.js
+
+! https://servicecore.app/tr
+https://snap.licdn.com/li.lms-analytics/insight.min.js
+https://vercel.com/hfi/vitals
+
+https://vercel.com/hfi/events/view
+
+
+https://bat.bing.com/p/insights/c/k
+
+! 11 Ağu 2025 https://balkangunlugu.com.tr
+balkangunlugu.com.tr##.balkan-icerik-reklamlari
+balkangunlugu.com.tr##.righttr
+balkangunlugu.com.tr##.leftr
+balkangunlugu.com.tr###balkan-3774858554
+balkangunlugu.com.tr###balkan-slider-6478
+
+https://cbs.manisa.bel.tr/rehberapi/ClientLog/Create
+https://bulutkbs.gov.tr/Rehber/activeUser/handlePing
+
+! 18 Ağu 2025 https://www.ilan.gov.tr
+www.ilan.gov.tr##.banner-img
+
+! 19 Ağu 2025 https://www.thingiverse.com
+www.thingiverse.com##.AdCard__adCardContent--CkSTF
+www.thingiverse.com##.AdCard__adCard--NT3P6
+
+logger2.playablefactory.app
+
+https://logger2.playablefactory.app/api/events/create.png
+
+! 1 Eyl 2025 https://www.tp-link.com
+@@||salesiq.zoho.com/widget$script
+@@||salesiq.zohopublic.com^$xhr
+@@||static.zohocdn.com/salesiq/MEDIA_14/sound/$media
+
+https://salesiq.zohopublic.com/tplinktrkiye/logdebuginfo.ls
+https://salesiq.zohopublic.com/*/logdebuginfo.ls
+
+! 2 Eyl 2025 https://noingoaithatgiare.com
+noingoaithatgiare.com###ornekReklam1b
+noingoaithatgiare.com##.hellobar
+noingoaithatgiare.com##.listeReklam
+noingoaithatgiare.com##.fixedFooterAd
+
+https://www.bing.com/web/xlsc.aspx?dl=1&f=8
+
+! 11 Eyl 2025 https://dookeela2.live
+dookeela2.live##div.justify-center.flex > [href]
+dookeela2.live##.relative.inline-block
+dookeela2.live##.ads140s
+dookeela2.live###slider-r
+dookeela2.live###slider-l
+
+! 11 Eyl 2025 https://prensbettvzirve.pages.dev
+||prensbettvzirve.pages.dev/*g$image
+
+! 12 Eyl 2025 https://24taraftarium.xyz
+24taraftarium.xyz##.web-ad
+||24taraftarium.xyz/*.gif$image
+
+https://video.twimg.com/amplify_video/1958184109064212481/pl/zNkvdnyypKj3KFpr.m3u8?variant_version=1&tag=14
+
+! 12 Eyl 2025 https://buradanizle23.com
+buradanizle23.com##.ads-img
+||buradanizle23.com/*.gif$image
+
+! 12 Eyl 2025 https://whos.amung.us
+@@||whos.amung.us^$domain=whos.amung.us
+@@||assets.amung.us^$domain=whos.amung.us
+
+! 12 Eyl 2025 https://majorxtv.me
+majorxtv.me##.ads-img
+||majorxtv.me/assets/img/Background.jpg$image
+majorxtv.me##div.loaded.live-results:nth-of-type(7)
+
+https://a.streamed.pk/js/script.js
+https://a.streamed.pk/api/event
+
+https://organizations.minnit.chat/cdn-cgi/trace
+/cdn-cgi/trace
+
+! bosssports70.com
+/^bosssports\d+\.(com|(.*))$/##[href*="t.ly/"]
+
+! 13 Eyl 2025 https://forumfiber.com
+||helpmert.com/wp-content/uploads/*.jpg$image
+forumfiber.com##[href^="https://kaf.simur.org"]
+
+! 14 Eyl 2025 https://tr.mycamtv.com
+https://tr.mycamtv.com/api/front/v2/logs
+
+https://pixeldrain.com/api/misc/ip_address_reputation
+
+
+https://httpbin.org/ip
+
+https://www.turktelekom.com.tr/clm10
+https://corechatbotai.turktelekom.com.tr/clm10
+/clm10
+
+https://brightvpn.com/wp-json/brd/info/general
+https://brightvpn.com/wp-json/brd/events
+
+! 19 Eyl 2025 https://www.hepsiburada.com
+www.hepsiburada.com##.hepsiads-src-universal-partials-SponBrands-styles-SponBrand__root
+
+https://js.fudaoyuan.icu/iam/ikun
+https://js.fudaoyuan.icu
+https://logto.fudaoyuan.icu/
+
+https://cdn.jsdelivr.net/npm/disable-devtool@latest
+||https://cdn.jsdelivr.net/npm/disable-devtool@latest
+
+https://eu.meshify.cloud/v1/channel
+
+https://v0.app/chat/api/send-site
+https://api.palette.dev/api/collect?key=50b98596-2e4f-4881-9dd9-93856ffd566d&encoding=gzip
+https://api.palette.dev/api/collect
+
+https://www.hotwire.com/cl/2x2.json
+https://vacation.hotwire.com/cl/1x1.json
+https://vacation.hotwire.com/cl/2x2.json
+
+https://product.themantrix.com/e/
+https://product.themantrix.com/
+https://internal-c.posthog.com
+https://internal-c.posthog.com/s/
+https://internal-c.posthog.com/i/
+
+https://umami.panic.com/script.js
+https://umami.panic.com
+https://counter.peaknetworks.net/api/event
+https://counter.peaknetworks.net/
+
+https://e.livekit.io/i/v0/e/
+https://e.livekit.io/
+
+
+https://v0.app/chat/api/send
+
+https://gateway.kleinanzeigen.de/liberty/reporting/liberty-metric
+https://gateway.kleinanzeigen.de/gdpr/api/frontend-metrics
+https://gateway.kleinanzeigen.de/gdpr/api/consent-v2
+https://gateway.kleinanzeigen.de/gdpr/api/consent-v2/validate
+https://gateway.kleinanzeigen.de/gdpr/api/frontend-metrics/init
+
+https://www.kleinanzeigen.de/_actions/homepageWeb.adGallery.getAdGallery/
+
+https://app.sensortower.com/amplitude
+
+! 23 Eki 2025 https://bosssports142.com
+||/x?id=$xhr
+
+
+https://discordbotlist.com/api/v1/magic
+https://discordbotlist.com/api/v1/slots/i
+
+
+https://tukey.unibuddy.co/track/
+
+https://akaza.akashrajpurohit.com/
+https://akaza.akashrajpurohit.com/api/kentaro
+https://frog.akashrajpurohit.com/
+https://frog.akashrajpurohit.com/api/site/2/tracking-config
+https://frog.akashrajpurohit.com/api/session-replay/record/2
+https://frog.akashrajpurohit.com/api/track
+# https://github.com/kontext-dev/vibe/blob/main/apps/electron-app/src/renderer/index.html
+https://analytics.cobrowser.xyz
+
+https://api.maptiler.com/metrics
+
+https://player.tvkur.com/e
+
+
+https://turkcanli.tv/api/v1/event
+https://turkcanli.tv/api/v1/fingerprint
+
+https://vr.xhlive.stream/api/vr/v2/logs
+
+! 7 Kas 2025 https://tr.xhlive.stream
+tr.xhlive.stream##.view-cam-watching-limit
+
+! 10 Kas 2025 https://www.sporcafe-782a1a67028f.xyz
+@@||/index.php?id=$subdocument
+
+! 15 Kas 2025 https://hideout.co
+! 15 Kas 2025 https://gamersden.tv
+@@||img.connatix.com^$image
+
+https://eu.ristats.com/api/send
+https://eu.ristats.com/
+
+! 20 Kas 2025 https://dizipall26.com
+dizipall26.com##.bg-cover-bg
+
+
+https://apigateway-logging.tesla.com/api/logs
+https://static-assets-pay.tesla.com/api/log/v2
+
+! 25 Kas 2025 https://github.com
+||github.com/gosom/google-maps-scraper/*/img/*.png$image
+
+! 25 Kas 2025 http://localhost:8080
+localhost##.github-section
+localhost##.sponsor-section
+
+
+https://pm.redbull.com/api/event
+https://bosssports210.com/injecti.js
+
+https://mcs-sg.tiktokv.com/v1/list
+https://www.tiktok.com/tiktok/v1/screen_time/upload/
+
+
+||store.steampowered.com^$removeparam=curator_clanid
+||steamcommunity.com^$removeparam=curator_clanid
+
+https://realtime-visitors.bubilet-account.workers.dev/
+https://*.bubilet-account.workers.dev/
+
+! 30 Kas 2025 https://downdetector.tr
+@@||downdetector.tr/cdn-cgi/trace$xhr,1p
+
+! 30 Kas 2025 https://allestoringen.nl
+@@||allestoringen.nl/cdn-cgi/trace$xhr,1p
+
+https://checkout.ea.com/akam/13/pixel_51071498
+https://checkout.ea.com/akam/13/pixel_*
+
+https://dw-api.servicecloudweb.com/v2/event
+
+
+https://www.google.com/ccm/collect
+
+https://www.hepsiburada.com/service-worker.1.0.0.js
+
+https://cdn.dsmcdn.com/web/master/gtm.service.*.js
+https://cdn.dsmcdn.com/web/master/gtm.service.d189a66adebb9e5e047252a38b83950b.js
+
+! 5 Ara 2025 https://www.ptt.gov.tr
+##.styles_advertisementBanner__OT9kf
+
+https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/log
+
+! 9 Ara 2025 https://trgoals1482.xyz - https://trgoals1486.xyz - https://inatspor26.xyz/
+/^trgoals\d+\.(xyz|(.*))$/##.pageskin-bg
+/^trgoals\d+\.(xyz|(.*))$/##.pageskin-wrapper
+/^inatspor\d+\.(xyz|(.*))$/##.pageskin-bg
+/^inatspor\d+\.(xyz|(.*))$/##.pageskin-wrapper
+
+
+https://oguzhanceyhan.perculus2.com/iapi/log
+
+https://ulasav.csb.gov.tr/_tracking
+
+! 15 Ara 2025 https://royalbahis.org
+royalbahis.org##.avrasya-tablo-container
+royalbahis.org###iframe2
+
+! 15 Ara 2025 https://royalbahis.net
+royalbahis.net##.avrasya-tablo-container
+royalbahis.net###iframe2
+
+! 15 Ara 2025 https://betlimaguncel.com
+betlimaguncel.com##.avrasya-tablo-container
+##.avrasya-tablo-container
+
+! https://gingerlive.io/
+campaignclick.php
+
+! bosssports scripts
+/aldinmi.js
+/albunual.js
+/blokatsanai.js
+/blokatsanaw.js
+
+! https://www.sporcafe-1a22a4fd8b.xyz/
+https://analytic.is/api/send
+/api/send
+https://pro.ip-api.com/json?fields=2181826&key=XOpiansRgYxGTho
+https://pro.ip-api.com/json
+
+! 15 Ara 2025 https://mactanmaca686.sbs
+@@||mactanmaca686.sbs/wp-content/themes/ikisifirbirdokuz/match-center.php$subdocument,1p
+
+! 15 Ara 2025 https://whos.amung.us
+whos.amung.us###ad1
+
+! https://www.reddit.com/svc/shreddit/events
+https://a.torbox.app/api/track
+/api/track
+
+https://ipwho.is/
+
+! 19 Ara 2025 https://docs.speedtest-tracker.dev
+||*/~gitbook/image$image
+/~gitbook/__evt
+https://app.gitbook.com/__session/
+
+https://spa.bento.me/v1/p
+https://spa.bento.me/v1/m
+https://spa.bento.me/
+https://apx.bento.me/
+
+https://zxro.com/u/?redirect=1&url=
+
+https://www.sahibinden.com/QerrWGjI/init.js
+https://tzm.px-cloud.net/ns
+https://static.sahibinden.com/assets/analytics:1.js
+https://static.sahibinden.com/assets/analytics**
+https://acikveri.bizizmir.com/_tracking
+
+! 24 Ara 2025 https://www.moanmyip.com
+||www.moanmyip.com/images/moanmyip_lg.jpg$image
+www.moanmyip.com##[href="https://www.removemyphone.com"]
+
+! 2 Oca 2026 https://dizipal.ac
+dizipal.ac##center
+
+https://gibir.net.tr/api/fb-event
+https://www.google.com/ccm/collect
+
+! 23 Oca 2026 https://colonist.io
+colonist.io##.in_game_ad_right
+colonist.io##.in_game_ad_left
+
+https://walletlify.com/~api/analytics
+/~api/analytics
+
+! 29 Oca 2026 https://neobanks.app
+neobanks.app##.fond_cliquable_side_img
+neobanks.app###fond_cliquable_bottom
+neobanks.app###fond_cliquable_top
+
+https://test-b2c-api.biletdukkani.com/utility/get-client-ip
+
+! Kiro
+https://prod.us-east-1.telemetry.kiro.aws.dev/v1/metrics
+https://log.sso-portal.us-east-1.amazonaws.com/log
+https://prod.tools.shortbread.analytics.console.aws.a2z.com/ping
+
+! 16 Şub 2026 https://www.linkedin.com
+https://www.linkedin.com/li/track
+@@||www.linkedin.com/sensorCollect/?action=reportMetrics$1p
+
+! 7 Mart 2026 https://sevgilergunu.com/
+https://us-central1-sevgililergunucom.cloudfunctions.net/trackUserSession
+
+https://pubagw6.burgan.com.tr/ebanking/collect/log
+
+! 21 Mar 2026 https://emojicombos.com
+emojicombos.com##.a-ctn
+
+! 27 Mar 2026 https://dizipal2038.com
+/^dizipal\d+\.(com|(.*))$/##.embed-text-banner-top
+/^dizipal\d+\.(com|(.*))$/##.embed-text-banner
+/^dizipal\d+\.(com|(.*))$/##.embed-text-banner-bottom
+
