@@ -1680,8 +1680,9 @@ https://pubagw6.burgan.com.tr/ebanking/collect/log
 ! 21 Mar 2026 https://emojicombos.com
 emojicombos.com##.a-ctn
 
-! 27 Mar 2026 https://dizipal2038.com
+! 27 Mar 2026 https://dizipal2038.com - https://dizipal.im
 /^dizipal\d+\.(com|(.*))$/##.embed-text-banner-top
 /^dizipal\d+\.(com|(.*))$/##.embed-text-banner
 /^dizipal\d+\.(com|(.*))$/##.embed-text-banner-bottom
-
+/^dizipal\d+\.(com|(.*))$/##.banner
+/^dizipal\.(com|(.*))$/##.banner
